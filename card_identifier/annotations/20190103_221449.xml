@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20190103_221449.jpg</filename>
+	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/bounding_box/images/20190103_221449.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1274</xmin>
+			<ymin>499</ymin>
+			<xmax>2914</xmax>
+			<ymax>1695</ymax>
+		</bndbox>
+	</object>
+</annotation>
