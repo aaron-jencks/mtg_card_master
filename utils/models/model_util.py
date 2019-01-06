@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 
-class TensoflowFaceDector(object):
+class TensorflowFaceDetector(object):
     def __init__(self, path_to_model: str):
         """Tensorflow detector
         """
