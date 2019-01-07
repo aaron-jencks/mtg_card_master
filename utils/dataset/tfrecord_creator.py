@@ -149,13 +149,14 @@ def read_train_val():
 	but only if specified by args.split, and returns the two lists"""
 	
 	# Maps the directory for image files and reads in all of the lines and then shuffles them
-	files = list(map(lambda x: os.path.join(args.image_dir, x), fnmatch.filter(os.listdir(args.annotation_xmls), "*.xml")))
+	files = list(fnmatch.filter(os.listdir(args.annotation_xmls), "*.xml"))
 	
 	# Converts to the corresponding jpg files, and then removes the non-existant ones
 	remove_non_existant_files(files)
 	
 	# Shuffles the list
 	shuffle(files)
+	files = list(map(lambda x: os.path.join(args.annotation_xmls, x), files))
 	
 	for name in files:
 		print(name)
