@@ -1,5 +1,6 @@
 import tensorflow as tf
 import numpy as np
+import cv2
 
 class TensorflowFaceDetector(object):
     def __init__(self, path_to_model: str):
