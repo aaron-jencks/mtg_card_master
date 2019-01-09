@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # pylint: disable=C0103
 # pylint: disable=E1101
