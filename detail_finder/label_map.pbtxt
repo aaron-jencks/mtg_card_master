@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'name'
+}
+item {
+  id: 2
+  name: 'cmc'
+}
+item {
+  id: 3
+  name: 'image'
+}
+item {
+  id: 4
+  name: 'type'
+}
+item {
+  id: 5
+  name: 'set'
+}
+item {
+  id: 6
+  name: 'text'
+}
+item {
+  id: 7
+  name: 'artist'
+}
+item {
+  id: 8
+  name: 'power'
+}
+item {
+  id: 9
+  name: 'toughness'
+}
+item {
+  id: 10
+  name: 'land_symbol'
+}

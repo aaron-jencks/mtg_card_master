@@ -11,10 +11,7 @@ def card_to_filename(card) -> str:
 	"""Takes a mtgsdk Card object and returns a filename
 	containing the types and formats, border styles, etc..."""
 	result = card.set + "_" + card.name.replace(' ', '_') + "_"
-	for supertype in card.supertypes:
-		result += supertype + "_"
-	for subtype in card.subtypes:
-		result += subtype + "_"
+	result += card.type.split()[0] + "_"
 	result += card.border + "_" if card.border else ""
 	result += str(card.multiverse_id)
 	return result
