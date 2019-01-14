@@ -76,5 +76,5 @@ if __name__ == "__main__":
 			if file in source_files:
 				print('found a match for {}'.format(file))
 				copyfile(os.path.join(args.source_dir, (args.origin_set + file + sid_dict[file] + ".xml")), \
-					os.path.join(args.target_dir, (args.target_set + file + tid_dict[file] + ".xml")))
+					os.path.join(args.source_dir, (args.target_set + file + tid_dict[file] + ".xml")))
 
