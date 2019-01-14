@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Counterspell_Instant_1196.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Counterspell_Instant_1196.jpg</path>
+	<filename>3ED_Copy_Artifact_Enchantment_1195.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Copy_Artifact_Enchantment_1195.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
-			<ymin>10</ymin>
-			<xmax>79</xmax>
-			<ymax>27</ymax>
+			<xmin>13</xmin>
+			<ymin>12</ymin>
+			<xmax>88</xmax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>179</xmin>
-			<ymin>13</ymin>
-			<xmax>205</xmax>
-			<ymax>27</ymax>
+			<ymin>12</ymin>
+			<xmax>206</xmax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
+			<xmin>24</xmin>
 			<ymin>29</ymin>
-			<xmax>199</xmax>
-			<ymax>170</ymax>
+			<xmax>198</xmax>
+			<ymax>169</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>20</xmin>
-			<ymin>172</ymin>
-			<xmax>66</xmax>
-			<ymax>184</ymax>
+			<ymin>173</ymin>
+			<xmax>86</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>53</xmin>
-			<ymin>211</ymin>
-			<xmax>170</xmax>
-			<ymax>241</ymax>
+			<xmin>29</xmin>
+			<ymin>188</ymin>
+			<xmax>193</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,7 +79,7 @@
 		<bndbox>
 			<xmin>56</xmin>
 			<ymin>284</ymin>
-			<xmax>116</xmax>
+			<xmax>114</xmax>
 			<ymax>296</ymax>
 		</bndbox>
 	</object>

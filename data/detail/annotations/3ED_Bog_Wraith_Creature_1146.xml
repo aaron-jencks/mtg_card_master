@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Bog_Wraith_Creature_648.jpg</filename>
-	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Bog_Wraith_Creature_648.jpg</path>
+	<filename>3ED_Bog_Wraith_Creature_1146.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Bog_Wraith_Creature_1146.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>12</ymin>
-			<xmax>76</xmax>
-			<ymax>28</ymax>
+			<xmin>15</xmin>
+			<ymin>11</ymin>
+			<xmax>78</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>175</xmin>
-			<ymin>14</ymin>
-			<xmax>203</xmax>
-			<ymax>27</ymax>
+			<xmin>177</xmin>
+			<ymin>13</ymin>
+			<xmax>205</xmax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>20</xmin>
-			<ymin>172</ymin>
+			<ymin>173</ymin>
 			<xmax>100</xmax>
-			<ymax>184</ymax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>196</ymin>
-			<xmax>189</xmax>
-			<ymax>251</ymax>
+			<xmin>30</xmin>
+			<ymin>198</ymin>
+			<xmax>186</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>184</xmin>
-			<ymin>278</ymin>
+			<ymin>282</ymin>
 			<xmax>195</xmax>
-			<ymax>292</ymax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>195</xmin>
-			<ymin>278</ymin>
+			<ymin>281</ymin>
 			<xmax>206</xmax>
-			<ymax>293</ymax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>56</xmin>
-			<ymin>279</ymin>
+			<ymin>283</ymin>
 			<xmax>126</xmax>
-			<ymax>292</ymax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Goblin_King_Creature_799.jpg</filename>
-	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Goblin_King_Creature_799.jpg</path>
+	<filename>3ED_Goblin_King_Creature_1296.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Goblin_King_Creature_1296.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>14</xmin>
 			<ymin>12</ymin>
 			<xmax>76</xmax>
-			<ymax>29</ymax>
+			<ymax>25</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
-			<ymin>32</ymin>
-			<xmax>195</xmax>
+			<xmin>24</xmin>
+			<ymin>30</ymin>
+			<xmax>196</xmax>
 			<ymax>169</ymax>
 		</bndbox>
 	</object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>172</ymin>
-			<xmax>124</xmax>
-			<ymax>184</ymax>
+			<xmax>90</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>188</ymin>
-			<xmax>186</xmax>
-			<ymax>263</ymax>
+			<xmin>28</xmin>
+			<ymin>189</ymin>
+			<xmax>181</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>184</xmin>
-			<ymin>278</ymin>
+			<ymin>281</ymin>
 			<xmax>195</xmax>
-			<ymax>292</ymax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>195</xmin>
-			<ymin>278</ymin>
+			<ymin>281</ymin>
 			<xmax>206</xmax>
-			<ymax>293</ymax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>56</xmin>
-			<ymin>279</ymin>
+			<ymin>284</ymin>
 			<xmax>125</xmax>
-			<ymax>291</ymax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 </annotation>

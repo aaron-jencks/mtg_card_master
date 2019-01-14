@@ -18,6 +18,7 @@ parser = argparse.ArgumentParser("Searches for any file matching the pattern and
 parser.add_argument("target_file", help="The file to whom's contents to copy", type=str)
 parser.add_argument("pattern_dir", help="The directory to search for pattern matches in", type=str)
 parser.add_argument("pattern", help="The fnmatch pattern to use", type=str)
+parser.add_argument("-i", "--ignore_exist", help="Specifies to ignore annotations that already exist.", action="store_true", default=False)
 args = parser.parse_args()
 
 if __name__ == "__main__":
@@ -35,7 +36,9 @@ if __name__ == "__main__":
 		new_file = os.path.join(output_path, name + ext)
 		print('Copying to ' + new_file)
 		try:
-			copyfile(args.target_file, new_file)
+                        if args.ignore_exist and os.path.isfile(new_file):
+                                continue
+                        copyfile(args.target_file, new_file)
 		except Exception as e:
 			print(e)
 			continue
