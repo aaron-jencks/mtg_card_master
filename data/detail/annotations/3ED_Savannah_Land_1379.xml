@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Plains_Basic_899.jpg</filename>
-	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Plains_Basic_899.jpg</path>
+	<filename>3ED_Savannah_Land_1379.jpg</filename>
+	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/3ED_Savannah_Land_1379.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>name</name>
+		<name>text</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>12</ymin>
-			<xmax>46</xmax>
-			<ymax>28</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>25</xmin>
-			<ymin>32</ymin>
-			<xmax>195</xmax>
-			<ymax>169</ymax>
+			<xmin>30</xmin>
+			<ymin>197</ymin>
+			<xmax>190</xmax>
+			<ymax>252</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>172</ymin>
-			<xmax>51</xmax>
-			<ymax>183</ymax>
+			<xmin>20</xmin>
+			<ymin>173</ymin>
+			<xmax>48</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>text</name>
+		<name>name</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>58</xmin>
-			<ymin>202</ymin>
-			<xmax>167</xmax>
-			<ymax>244</ymax>
+			<xmin>16</xmin>
+			<ymin>12</ymin>
+			<xmax>67</xmax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>58</xmin>
-			<ymin>277</ymin>
-			<xmax>126</xmax>
-			<ymax>290</ymax>
+			<xmin>57</xmin>
+			<ymin>282</ymin>
+			<xmax>128</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 </annotation>

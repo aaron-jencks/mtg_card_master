@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Air_Elemental_Creature_691.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\2ED_Air_Elemental_Creature_691.jpg</path>
+	<filename>2ED_Red_Elemental_Blast_Instant_814.jpg</filename>
+	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Red_Elemental_Blast_Instant_814.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>19</xmin>
 			<ymin>12</ymin>
-			<xmax>87</xmax>
-			<ymax>29</ymax>
+			<xmax>122</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>162</xmin>
-			<ymin>14</ymin>
-			<xmax>203</xmax>
-			<ymax>28</ymax>
+			<xmin>193</xmin>
+			<ymin>13</ymin>
+			<xmax>208</xmax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>25</xmin>
-			<ymin>32</ymin>
-			<xmax>195</xmax>
-			<ymax>169</ymax>
+			<ymin>31</ymin>
+			<xmax>194</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
+			<xmin>26</xmin>
 			<ymin>172</ymin>
-			<xmax>113</xmax>
-			<ymax>185</ymax>
+			<xmax>69</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,34 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>188</ymin>
-			<xmax>186</xmax>
-			<ymax>263</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>278</ymin>
-			<xmax>195</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>195</xmin>
-			<ymin>278</ymin>
-			<xmax>206</xmax>
-			<ymax>293</ymax>
+			<xmin>43</xmin>
+			<ymin>198</ymin>
+			<xmax>188</xmax>
+			<ymax>249</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>279</ymin>
-			<xmax>136</xmax>
-			<ymax>293</ymax>
+			<xmin>62</xmin>
+			<ymin>278</ymin>
+			<xmax>140</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>

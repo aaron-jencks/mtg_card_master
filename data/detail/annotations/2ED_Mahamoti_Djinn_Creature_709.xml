@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Air_Elemental_Creature_691.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\2ED_Air_Elemental_Creature_691.jpg</path>
+	<filename>2ED_Mahamoti_Djinn_Creature_709.jpg</filename>
+	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Mahamoti_Djinn_Creature_709.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>13</xmin>
 			<ymin>12</ymin>
-			<xmax>87</xmax>
-			<ymax>29</ymax>
+			<xmax>94</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
+			<xmin>19</xmin>
 			<ymin>172</ymin>
-			<xmax>113</xmax>
+			<xmax>93</xmax>
 			<ymax>185</ymax>
 		</bndbox>
 	</object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>188</ymin>
-			<xmax>186</xmax>
-			<ymax>263</ymax>
+			<xmax>193</xmax>
+			<ymax>261</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -103,8 +103,8 @@
 		<bndbox>
 			<xmin>56</xmin>
 			<ymin>279</ymin>
-			<xmax>136</xmax>
-			<ymax>293</ymax>
+			<xmax>114</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

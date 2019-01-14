@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Air_Elemental_Creature_691.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\2ED_Air_Elemental_Creature_691.jpg</path>
+	<filename>2ED_Howling_Mine_Artifact_615.jpg</filename>
+	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Howling_Mine_Artifact_615.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>162</xmin>
-			<ymin>14</ymin>
+			<xmin>188</xmin>
+			<ymin>13</ymin>
 			<xmax>203</xmax>
 			<ymax>28</ymax>
 		</bndbox>
@@ -65,34 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>188</ymin>
-			<xmax>186</xmax>
-			<ymax>263</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>278</ymin>
-			<xmax>195</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>195</xmin>
-			<ymin>278</ymin>
-			<xmax>206</xmax>
-			<ymax>293</ymax>
+			<xmin>48</xmin>
+			<ymin>189</ymin>
+			<xmax>179</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>56</xmin>
-			<ymin>279</ymin>
-			<xmax>136</xmax>
-			<ymax>293</ymax>
+			<ymin>278</ymin>
+			<xmax>112</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>
