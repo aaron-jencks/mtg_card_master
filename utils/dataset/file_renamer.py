@@ -6,15 +6,20 @@ def remove_invalid_chars(string):
 	"""Removes the characters in the filename that aren't
 	allowed in windows (?,."'\, etc...)"""
 
-	string.replace('<', '_')
-	string.replace('>', '_')
-	string.replace(':', '_')
-	string.replace('"', '_')
-	string.replace('/', '_')
-	string.replace('\\', '_')
-	string.replace('|', '_')
-	string.replace('?', '_')
-	string.replace('*', '_')
+	string = string.replace('<', '_')
+	string = string.replace('>', '_')
+	string = string.replace(':', '_')
+	string = string.replace('"', '_')
+	string = string.replace('/', '_')
+	string = string.replace('\\', '_')
+	string = string.replace('|', '_')
+	string = string.replace('?', '_')
+	string = string.replace('*', '_')
+
+	# Handles periods
+	bits = os.path.splitext(string)
+	string = bits[0].replace('.', '_')
+	string += bits[1]
 
 	return string
 
@@ -25,7 +30,7 @@ def contains_invalid_chars(string):
 
 	return ('<' in string) or ('>' in string) or (':' in string) or ('"' in string) or \
 		('/' in string) or ('\\' in string) or ('|' in string) or ('?' in string) or \
-		('*' in string)
+		('*' in string) or (string.count('.') > 1)
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser("Renames files to contain only valid filename characters")
