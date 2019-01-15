@@ -1,7 +1,7 @@
 from mtgsdk import Card, Set
 from random import shuffle, choices
 import urllib.request as url
-import argparse, os
+import argparse, os, time
 
 parser = argparse.ArgumentParser()
 parser.add_argument('output_path', help="Directory to store the image files into.", type=str, default="./")
@@ -80,7 +80,16 @@ def filter_set(card_set):
     compendium = []
     type_dict = create_type_dict_from_set(card_set)
     for card_type in type_dict:
-        for card in choices(type_dict[card_type], k=1):
+        card = choices(type_dict[card_type], k=1)[0]
+        counter = 0
+        while card.image_url is None:
+            print('{} image url was empty, trying again'.format(card.name))
+            card = choices(type_dict[card_type], k=1)[0]
+            counter += 1
+            if counter == 5:
+                print('Failed to find a valid card after 5 attempts, moving on...')
+                break
+        if counter is not 5:
             compendium.append(card)
             
     return compendium
@@ -98,5 +107,6 @@ if __name__ == "__main__":
             try:
                 print('Downloading ' + card.name + ' from ' + card.image_url)
                 url.urlretrieve(card.image_url, os.path.join(args.output_path, card_to_filename(card) + ".jpg"))
-            except:
-                print('skipping ' + card.name + ' url property is empty')
+                #time.sleep(1)
+            except Exception as e:
+                print('skipping ' + card.name + ' because of {}'.format(e))
