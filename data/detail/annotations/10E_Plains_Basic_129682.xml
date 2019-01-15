@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Unstable_Mutation_Enchantment_1228.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Unstable_Mutation_Enchantment_1228.jpg</path>
+	<filename>10E_Plains_Basic_129682.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\10E_Plains_Basic_129682.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,34 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>12</ymin>
-			<xmax>109</xmax>
-			<ymax>28</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cmc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>190</xmin>
-			<ymin>13</ymin>
-			<xmax>203</xmax>
-			<ymax>26</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>23</xmin>
-			<ymin>30</ymin>
-			<xmax>196</xmax>
-			<ymax>170</ymax>
+			<xmin>20</xmin>
+			<ymin>18</ymin>
+			<xmax>56</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>173</ymin>
-			<xmax>106</xmax>
-			<ymax>187</ymax>
+			<xmin>21</xmin>
+			<ymin>175</ymin>
+			<xmax>115</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>text</name>
+		<name>set</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>189</ymin>
-			<xmax>188</xmax>
-			<ymax>260</ymax>
+			<xmin>183</xmin>
+			<ymin>175</ymin>
+			<xmax>204</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>282</ymin>
-			<xmax>134</xmax>
-			<ymax>295</ymax>
+			<xmin>34</xmin>
+			<ymin>281</ymin>
+			<xmax>78</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>37</ymin>
+			<xmax>203</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>land_symbol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>201</ymin>
+			<xmax>154</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 </annotation>

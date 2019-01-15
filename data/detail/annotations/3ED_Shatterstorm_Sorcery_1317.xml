@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Blue_Elemental_Blast_Instant_1191.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Blue_Elemental_Blast_Instant_1191.jpg</path>
+	<filename>3ED_Shatterstorm_Sorcery_1317.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Shatterstorm_Sorcery_1317.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>12</ymin>
-			<xmax>122</xmax>
-			<ymax>26</ymax>
+			<xmax>87</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
+			<xmin>165</xmin>
 			<ymin>13</ymin>
 			<xmax>205</xmax>
-			<ymax>25</ymax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>52</xmin>
-			<ymin>204</ymin>
-			<xmax>170</xmax>
-			<ymax>245</ymax>
+			<xmin>27</xmin>
+			<ymin>198</ymin>
+			<xmax>177</xmax>
+			<ymax>255</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>19</xmin>
 			<ymin>172</ymin>
-			<xmax>68</xmax>
-			<ymax>185</ymax>
+			<xmax>60</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>282</ymin>
-			<xmax>136</xmax>
-			<ymax>295</ymax>
+			<xmin>55</xmin>
+			<ymin>284</ymin>
+			<xmax>113</xmax>
+			<ymax>297</ymax>
 		</bndbox>
 	</object>
 </annotation>
