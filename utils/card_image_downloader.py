@@ -80,7 +80,7 @@ def filter_set(card_set):
     compendium = []
     type_dict = create_type_dict_from_set(card_set)
     for card_type in type_dict:
-        for card in choices(type_dict[card_type], k=int(len(type_dict[card_type]) / 2)):
+        for card in choices(type_dict[card_type], k=1):
             compendium.append(card)
             
     return compendium
