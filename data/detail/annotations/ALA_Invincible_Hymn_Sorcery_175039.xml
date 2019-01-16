@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</path>
+	<filename>ALA_Invincible_Hymn_Sorcery_175039.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ALA_Invincible_Hymn_Sorcery_175039.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>141</xmax>
+			<xmax>112</xmax>
 			<ymax>32</ymax>
 		</bndbox>
 	</object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>176</ymin>
-			<xmax>57</xmax>
-			<ymax>188</ymax>
+			<xmin>21</xmin>
+			<ymin>177</ymin>
+			<xmax>59</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>188</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>204</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>196</xmax>
-			<ymax>269</ymax>
+			<ymin>194</ymin>
+			<xmax>198</xmax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 	<object>

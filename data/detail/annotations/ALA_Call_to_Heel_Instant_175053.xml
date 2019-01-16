@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Spectral_Shift_Instant_73572.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Spectral_Shift_Instant_73572.jpg</path>
+	<filename>ALA_Call_to_Heel_Instant_175053.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ALA_Call_to_Heel_Instant_175053.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>18</ymin>
-			<xmax>94</xmax>
-			<ymax>33</ymax>
+			<xmax>86</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>54</xmax>
-			<ymax>187</ymax>
+			<xmax>57</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>194</ymin>
-			<xmax>194</xmax>
-			<ymax>276</ymax>
+			<xmin>22</xmin>
+			<ymin>198</ymin>
+			<xmax>202</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>281</ymin>
-			<xmax>69</xmax>
-			<ymax>290</ymax>
+			<xmax>87</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>

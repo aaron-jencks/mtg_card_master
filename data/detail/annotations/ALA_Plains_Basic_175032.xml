@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>9ED_Plains_Basic_83208.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\9ED_Plains_Basic_83208.jpg</path>
+	<filename>ALA_Plains_Basic_175032.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ALA_Plains_Basic_175032.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>17</ymin>
-			<xmax>53</xmax>
-			<ymax>35</ymax>
+			<xmax>55</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>175</ymin>
-			<xmax>201</xmax>
-			<ymax>190</ymax>
+			<xmin>187</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>78</xmin>
 			<ymin>200</ymin>
-			<xmax>147</xmax>
-			<ymax>270</ymax>
+			<xmax>151</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>95</xmax>
-			<ymax>290</ymax>
+			<xmax>59</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>

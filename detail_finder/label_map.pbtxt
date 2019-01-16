@@ -38,3 +38,7 @@ item {
   id: 10
   name: 'land_symbol'
 }
+item {
+  id: 11
+  name: 'loyalty'
+}
