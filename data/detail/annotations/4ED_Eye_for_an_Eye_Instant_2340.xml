@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Purelace_Instant_861.jpg</filename>
-	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Purelace_Instant_861.jpg</path>
+	<filename>4ED_Eye_for_an_Eye_Instant_2340.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\4ED_Eye_for_an_Eye_Instant_2340.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>17</xmin>
 			<ymin>12</ymin>
-			<xmax>58</xmax>
+			<xmax>93</xmax>
 			<ymax>28</ymax>
 		</bndbox>
 	</object>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>14</ymin>
+			<xmin>178</xmin>
+			<ymin>12</ymin>
 			<xmax>203</xmax>
 			<ymax>26</ymax>
 		</bndbox>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
+			<xmin>26</xmin>
 			<ymin>30</ymin>
-			<xmax>195</xmax>
-			<ymax>168</ymax>
+			<xmax>196</xmax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>172</ymin>
-			<xmax>66</xmax>
-			<ymax>185</ymax>
+			<xmax>55</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>191</ymin>
-			<xmax>193</xmax>
-			<ymax>259</ymax>
+			<xmin>32</xmin>
+			<ymin>196</ymin>
+			<xmax>190</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>279</ymin>
-			<xmax>148</xmax>
-			<ymax>293</ymax>
+			<xmin>41</xmin>
+			<ymin>275</ymin>
+			<xmax>89</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>

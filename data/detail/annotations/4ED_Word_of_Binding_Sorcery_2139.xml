@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>2ED_Stone_Rain_Sorcery_822.jpg</filename>
-	<path>/home/aaron/Documents/workspace/my_github/mtg_card_master/data/detail/images/2ED_Stone_Rain_Sorcery_822.jpg</path>
+	<filename>4ED_Word_of_Binding_Sorcery_2139.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\4ED_Word_of_Binding_Sorcery_2139.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>18</xmin>
 			<ymin>12</ymin>
-			<xmax>73</xmax>
-			<ymax>28</ymax>
+			<xmax>106</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,8 +29,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>176</xmin>
-			<ymin>14</ymin>
+			<xmin>164</xmin>
+			<ymin>12</ymin>
 			<xmax>203</xmax>
 			<ymax>28</ymax>
 		</bndbox>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
+			<xmin>26</xmin>
 			<ymin>32</ymin>
-			<xmax>195</xmax>
-			<ymax>169</ymax>
+			<xmax>196</xmax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>39</xmin>
-			<ymin>211</ymin>
-			<xmax>188</xmax>
-			<ymax>231</ymax>
+			<xmin>33</xmin>
+			<ymin>191</ymin>
+			<xmax>191</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>278</ymin>
-			<xmax>121</xmax>
-			<ymax>290</ymax>
+			<xmin>41</xmin>
+			<ymin>274</ymin>
+			<xmax>92</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 </annotation>

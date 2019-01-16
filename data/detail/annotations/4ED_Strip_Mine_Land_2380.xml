@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Badlands_Land_1376.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Badlands_Land_1376.jpg</path>
+	<filename>4ED_Strip_Mine_Land_2380.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\4ED_Strip_Mine_Land_2380.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>12</ymin>
-			<xmax>64</xmax>
-			<ymax>25</ymax>
+			<xmax>76</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>24</xmin>
+			<xmin>26</xmin>
 			<ymin>29</ymin>
 			<xmax>196</xmax>
-			<ymax>170</ymax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>197</ymin>
-			<xmax>187</xmax>
-			<ymax>251</ymax>
+			<xmin>32</xmin>
+			<ymin>191</ymin>
+			<xmax>189</xmax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>57</xmin>
-			<ymin>282</ymin>
-			<xmax>129</xmax>
-			<ymax>295</ymax>
+			<xmin>41</xmin>
+			<ymin>275</ymin>
+			<xmax>94</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>

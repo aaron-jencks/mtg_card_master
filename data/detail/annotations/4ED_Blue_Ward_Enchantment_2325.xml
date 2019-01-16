@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Unstable_Mutation_Enchantment_1228.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Unstable_Mutation_Enchantment_1228.jpg</path>
+	<filename>4ED_Blue_Ward_Enchantment_2325.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\4ED_Blue_Ward_Enchantment_2325.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
+			<xmin>18</xmin>
 			<ymin>12</ymin>
-			<xmax>109</xmax>
-			<ymax>28</ymax>
+			<xmax>76</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
+			<xmin>26</xmin>
 			<ymin>30</ymin>
 			<xmax>196</xmax>
-			<ymax>170</ymax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>20</xmin>
-			<ymin>173</ymin>
+			<ymin>170</ymin>
 			<xmax>106</xmax>
-			<ymax>187</ymax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>189</ymin>
-			<xmax>188</xmax>
-			<ymax>260</ymax>
+			<xmin>52</xmin>
+			<ymin>194</ymin>
+			<xmax>171</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>282</ymin>
-			<xmax>134</xmax>
-			<ymax>295</ymax>
+			<xmin>41</xmin>
+			<ymin>275</ymin>
+			<xmax>89</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>

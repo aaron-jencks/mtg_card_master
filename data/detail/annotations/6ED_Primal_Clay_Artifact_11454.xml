@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Glasses_of_Urza_Artifact_1110.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Glasses_of_Urza_Artifact_1110.jpg</path>
+	<filename>6ED_Primal_Clay_Artifact_11454.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\6ED_Primal_Clay_Artifact_11454.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>15</xmin>
+			<xmin>23</xmin>
 			<ymin>12</ymin>
-			<xmax>93</xmax>
-			<ymax>27</ymax>
+			<xmax>86</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
-			<ymin>12</ymin>
-			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<xmin>191</xmin>
+			<ymin>13</ymin>
+			<xmax>208</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>24</xmin>
+			<xmin>27</xmin>
 			<ymin>31</ymin>
 			<xmax>196</xmax>
-			<ymax>171</ymax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>174</ymin>
-			<xmax>59</xmax>
-			<ymax>186</ymax>
+			<xmin>22</xmin>
+			<ymin>172</ymin>
+			<xmax>99</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>55</xmin>
-			<ymin>211</ymin>
-			<xmax>165</xmax>
-			<ymax>240</ymax>
+			<xmin>26</xmin>
+			<ymin>200</ymin>
+			<xmax>196</xmax>
+			<ymax>259</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>283</ymin>
-			<xmax>128</xmax>
-			<ymax>296</ymax>
+			<xmin>98</xmin>
+			<ymin>275</ymin>
+			<xmax>142</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>169</ymin>
+			<xmax>202</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>277</ymin>
+			<xmax>194</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>277</ymin>
+			<xmax>206</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 </annotation>

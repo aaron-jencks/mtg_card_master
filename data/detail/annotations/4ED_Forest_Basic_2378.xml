@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>3ED_Island_Basic_1394.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\3ED_Island_Basic_1394.jpg</path>
+	<filename>4ED_Forest_Basic_2378.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\4ED_Forest_Basic_2378.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>14</xmin>
-			<ymin>12</ymin>
-			<xmax>49</xmax>
-			<ymax>25</ymax>
+			<xmin>18</xmin>
+			<ymin>14</ymin>
+			<xmax>53</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>24</xmin>
-			<ymin>30</ymin>
-			<xmax>196</xmax>
-			<ymax>169</ymax>
+			<xmin>26</xmin>
+			<ymin>29</ymin>
+			<xmax>198</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>19</xmin>
-			<ymin>174</ymin>
+			<ymin>172</ymin>
 			<xmax>48</xmax>
-			<ymax>185</ymax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>62</xmin>
-			<ymin>211</ymin>
-			<xmax>158</xmax>
-			<ymax>241</ymax>
+			<xmin>36</xmin>
+			<ymin>215</ymin>
+			<xmax>185</xmax>
+			<ymax>230</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>282</ymin>
-			<xmax>112</xmax>
-			<ymax>295</ymax>
+			<xmin>39</xmin>
+			<ymin>274</ymin>
+			<xmax>110</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>
