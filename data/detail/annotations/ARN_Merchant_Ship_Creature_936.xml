@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Bog_Imp_Creature_11179.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Bog_Imp_Creature_11179.jpg</path>
+	<filename>ARN_Merchant_Ship_Creature_936.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARN_Merchant_Ship_Creature_936.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>13</ymin>
-			<xmax>72</xmax>
-			<ymax>29</ymax>
+			<xmin>17</xmin>
+			<ymin>12</ymin>
+			<xmax>92</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,7 +29,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>180</xmin>
+			<xmin>188</xmin>
 			<ymin>13</ymin>
 			<xmax>206</xmax>
 			<ymax>27</ymax>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>101</xmax>
-			<ymax>184</ymax>
+			<xmax>90</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>205</ymin>
-			<xmax>195</xmax>
+			<xmin>31</xmin>
+			<ymin>186</ymin>
+			<xmax>181</xmax>
 			<ymax>256</ymax>
 		</bndbox>
 	</object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
+			<xmin>57</xmin>
+			<ymin>278</ymin>
+			<xmax>142</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,8 +113,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>168</ymin>
+			<xmin>165</xmin>
+			<ymin>169</ymin>
 			<xmax>201</xmax>
 			<ymax>185</ymax>
 		</bndbox>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Aether_Flash_Enchantment_25678.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Aether_Flash_Enchantment_25678.jpg</path>
+	<filename>ARN_Jihad_Enchantment_973.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARN_Jihad_Enchantment_973.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>12</ymin>
-			<xmax>90</xmax>
+			<xmin>16</xmin>
+			<ymin>13</ymin>
+			<xmax>45</xmax>
 			<ymax>27</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
+			<xmin>164</xmin>
 			<ymin>13</ymin>
 			<xmax>205</xmax>
-			<ymax>27</ymax>
+			<ymax>26</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>84</xmax>
+			<xmax>86</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>194</ymin>
-			<xmax>193</xmax>
-			<ymax>261</ymax>
+			<xmin>31</xmin>
+			<ymin>187</ymin>
+			<xmax>190</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>275</ymin>
-			<xmax>154</xmax>
-			<ymax>288</ymax>
+			<xmin>58</xmin>
+			<ymin>279</ymin>
+			<xmax>125</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>168</ymin>
+			<xmin>165</xmin>
+			<ymin>170</ymin>
 			<xmax>201</xmax>
-			<ymax>184</ymax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 </annotation>
