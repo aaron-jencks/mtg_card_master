@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>9ED_Plains_Basic_83208.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\9ED_Plains_Basic_83208.jpg</path>
+	<filename>ARC_Forest_Basic_221297.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Forest_Basic_221297.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,58 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
+			<xmin>20</xmin>
 			<ymin>17</ymin>
-			<xmax>53</xmax>
-			<ymax>35</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>type</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>19</xmin>
-			<ymin>174</ymin>
-			<xmax>115</xmax>
-			<ymax>189</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>175</ymin>
-			<xmax>201</xmax>
-			<ymax>190</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>land_symbol</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>78</xmin>
-			<ymin>200</ymin>
-			<xmax>147</xmax>
-			<ymax>270</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>artist</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>32</xmin>
-			<ymin>280</ymin>
-			<xmax>95</xmax>
-			<ymax>290</ymax>
+			<xmax>57</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +30,57 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>19</xmin>
-			<ymin>38</ymin>
+			<ymin>36</ymin>
+			<xmax>203</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>type</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>176</ymin>
+			<xmax>114</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>artist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>281</ymin>
+			<xmax>88</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>174</ymin>
 			<xmax>204</xmax>
-			<ymax>172</ymax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>land_symbol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>202</ymin>
+			<xmax>149</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 </annotation>

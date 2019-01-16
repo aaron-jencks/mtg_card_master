@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Early_Harvest_Instant_12962.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Early_Harvest_Instant_12962.jpg</path>
+	<filename>APC_Jaded_Response_Instant_26673.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Jaded_Response_Instant_26673.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>12</ymin>
-			<xmax>99</xmax>
+			<xmax>103</xmax>
 			<ymax>28</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
+			<xmin>178</xmin>
 			<ymin>12</ymin>
 			<xmax>207</xmax>
-			<ymax>27</ymax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>25</xmin>
-			<ymin>206</ymin>
-			<xmax>195</xmax>
-			<ymax>250</ymax>
+			<ymin>197</ymin>
+			<xmax>196</xmax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,9 +77,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>276</ymin>
-			<xmax>154</xmax>
+			<xmin>92</xmin>
+			<ymin>274</ymin>
+			<xmax>146</xmax>
 			<ymax>287</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Nature's_Resurgence_Sorcery_12998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Nature's_Resurgence_Sorcery_12998.jpg</path>
+	<filename>APC_Guided_Passage_Sorcery_27169.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Guided_Passage_Sorcery_27169.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>12</ymin>
-			<xmax>132</xmax>
+			<xmax>108</xmax>
 			<ymax>29</ymax>
 		</bndbox>
 	</object>

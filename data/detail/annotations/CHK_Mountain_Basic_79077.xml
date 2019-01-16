@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Island_Basic_11349.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Island_Basic_11349.jpg</path>
+	<filename>ARC_Forest_Basic_221297.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Forest_Basic_221297.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>14</ymin>
+			<xmin>20</xmin>
+			<ymin>17</ymin>
 			<xmax>57</xmax>
-			<ymax>27</ymax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>31</ymin>
-			<xmax>197</xmax>
-			<ymax>167</ymax>
+			<xmin>19</xmin>
+			<ymin>36</ymin>
+			<xmax>203</xmax>
+			<ymax>171</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>172</ymin>
-			<xmax>50</xmax>
-			<ymax>183</ymax>
+			<xmin>22</xmin>
+			<ymin>176</ymin>
+			<xmax>114</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
+			<xmin>33</xmin>
+			<ymin>281</ymin>
+			<xmax>88</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>171</ymin>
-			<xmax>198</xmax>
-			<ymax>184</ymax>
+			<xmin>190</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>89</xmin>
-			<ymin>198</ymin>
-			<xmax>134</xmax>
-			<ymax>260</ymax>
+			<xmin>79</xmin>
+			<ymin>202</ymin>
+			<xmax>149</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 </annotation>

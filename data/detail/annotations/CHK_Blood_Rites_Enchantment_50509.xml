@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Aether_Flash_Enchantment_25678.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Aether_Flash_Enchantment_25678.jpg</path>
+	<filename>ARC_Rancor_Enchantment_220577.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Rancor_Enchantment_220577.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>12</ymin>
-			<xmax>90</xmax>
-			<ymax>27</ymax>
+			<xmin>20</xmin>
+			<ymin>17</ymin>
+			<xmax>61</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
-			<ymin>13</ymin>
+			<xmin>190</xmin>
+			<ymin>17</ymin>
 			<xmax>205</xmax>
-			<ymax>27</ymax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>30</ymin>
-			<xmax>196</xmax>
-			<ymax>167</ymax>
+			<xmin>19</xmin>
+			<ymin>36</ymin>
+			<xmax>203</xmax>
+			<ymax>171</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>171</ymin>
-			<xmax>84</xmax>
-			<ymax>184</ymax>
+			<xmin>22</xmin>
+			<ymin>176</ymin>
+			<xmax>119</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>194</ymin>
-			<xmax>193</xmax>
-			<ymax>261</ymax>
+			<xmin>22</xmin>
+			<ymin>195</ymin>
+			<xmax>196</xmax>
+			<ymax>276</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>275</ymin>
-			<xmax>154</xmax>
-			<ymax>288</ymax>
+			<xmin>33</xmin>
+			<ymin>281</ymin>
+			<xmax>74</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>168</ymin>
-			<xmax>201</xmax>
-			<ymax>184</ymax>
+			<xmin>190</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 </annotation>

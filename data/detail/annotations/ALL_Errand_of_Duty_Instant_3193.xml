@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Early_Harvest_Instant_12962.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Early_Harvest_Instant_12962.jpg</path>
+	<filename>ALL_Errand_of_Duty_Instant_3193.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\ALL_Errand_of_Duty_Instant_3193.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>12</ymin>
-			<xmax>99</xmax>
-			<ymax>28</ymax>
+			<xmin>16</xmin>
+			<ymin>13</ymin>
+			<xmax>97</xmax>
+			<ymax>29</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,7 +29,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
+			<xmin>177</xmin>
 			<ymin>12</ymin>
 			<xmax>207</xmax>
 			<ymax>27</ymax>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>20</xmin>
 			<ymin>171</ymin>
-			<xmax>56</xmax>
+			<xmax>54</xmax>
 			<ymax>183</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
-			<ymin>206</ymin>
-			<xmax>195</xmax>
-			<ymax>250</ymax>
+			<xmin>30</xmin>
+			<ymin>193</ymin>
+			<xmax>175</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>276</ymin>
-			<xmax>154</xmax>
-			<ymax>287</ymax>
+			<xmin>39</xmin>
+			<ymin>275</ymin>
+			<xmax>86</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>169</ymin>
-			<xmax>201</xmax>
-			<ymax>184</ymax>
+			<xmin>168</xmin>
+			<ymin>170</ymin>
+			<xmax>196</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 </annotation>

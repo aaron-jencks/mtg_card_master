@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Aether_Flash_Enchantment_25678.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Aether_Flash_Enchantment_25678.jpg</path>
+	<filename>APC_Symbiotic_Deployment_Enchantment_27160.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Symbiotic_Deployment_Enchantment_27160.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>12</ymin>
-			<xmax>90</xmax>
-			<ymax>27</ymax>
+			<xmax>142</xmax>
+			<ymax>29</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
+			<xmin>179</xmin>
 			<ymin>13</ymin>
 			<xmax>205</xmax>
-			<ymax>27</ymax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>26</xmin>
 			<ymin>194</ymin>
-			<xmax>193</xmax>
-			<ymax>261</ymax>
+			<xmax>195</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>275</ymin>
-			<xmax>154</xmax>
-			<ymax>288</ymax>
+			<xmin>98</xmin>
+			<ymin>274</ymin>
+			<xmax>144</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 	<object>

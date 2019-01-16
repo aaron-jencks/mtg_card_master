@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>APC_Desolation_Angel_Creature_26259.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Desolation_Angel_Creature_26259.jpg</path>
+	<filename>APC_Gerrard_Capashen_Legendary_26793.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Gerrard_Capashen_Legendary_26793.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>13</ymin>
-			<xmax>112</xmax>
-			<ymax>29</ymax>
+			<xmin>22</xmin>
+			<ymin>12</ymin>
+			<xmax>118</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -30,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>168</xmin>
-			<ymin>13</ymin>
-			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<ymin>12</ymin>
+			<xmax>204</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
+			<xmin>20</xmin>
 			<ymin>171</ymin>
-			<xmax>101</xmax>
+			<xmax>111</xmax>
 			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>169</ymin>
+			<xmax>199</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -68,7 +80,7 @@
 			<xmin>26</xmin>
 			<ymin>191</ymin>
 			<xmax>195</xmax>
-			<ymax>262</ymax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>278</ymin>
+			<xmin>186</xmin>
+			<ymin>274</ymin>
 			<xmax>195</xmax>
-			<ymax>292</ymax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>195</xmin>
-			<ymin>277</ymin>
+			<ymin>275</ymin>
 			<xmax>206</xmax>
-			<ymax>292</ymax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,22 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>108</xmin>
-			<ymin>272</ymin>
+			<xmin>107</xmin>
+			<ymin>274</ymin>
 			<xmax>133</xmax>
 			<ymax>286</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>168</ymin>
-			<xmax>201</xmax>
-			<ymax>185</ymax>
 		</bndbox>
 	</object>
 </annotation>

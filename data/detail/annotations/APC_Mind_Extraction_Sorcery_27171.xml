@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Nature's_Resurgence_Sorcery_12998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Nature's_Resurgence_Sorcery_12998.jpg</path>
+	<filename>APC_Mind_Extraction_Sorcery_27171.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\APC_Mind_Extraction_Sorcery_27171.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>12</ymin>
-			<xmax>132</xmax>
-			<ymax>29</ymax>
+			<xmax>112</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>179</xmin>
 			<ymin>13</ymin>
 			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
+			<xmin>98</xmin>
 			<ymin>275</ymin>
-			<xmax>148</xmax>
-			<ymax>285</ymax>
+			<xmax>143</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 	<object>
