@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>9ED_Plains_Basic_83208.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\9ED_Plains_Basic_83208.jpg</path>
+	<filename>AVR_Swamp_Basic_269641.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\AVR_Swamp_Basic_269641.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>17</ymin>
-			<xmax>53</xmax>
-			<ymax>35</ymax>
+			<xmax>60</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
+			<xmin>186</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>203</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>95</xmax>
-			<ymax>290</ymax>
+			<xmax>68</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
