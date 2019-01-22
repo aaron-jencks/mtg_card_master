@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Helm_of_Kaldra_Legendary_47449.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Helm_of_Kaldra_Legendary_47449.jpg</path>
+	<filename>BOK_Shizuko,_Caller_of_Autumn_Legendary_74436.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Shizuko,_Caller_of_Autumn_Legendary_74436.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>17</ymin>
-			<xmax>104</xmax>
-			<ymax>33</ymax>
+			<xmax>162</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
+			<xmin>167</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>173</ymin>
-			<xmax>165</xmax>
-			<ymax>188</ymax>
+			<xmax>181</xmax>
+			<ymax>187</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>193</ymin>
-			<xmax>198</xmax>
-			<ymax>276</ymax>
+			<ymin>197</ymin>
+			<xmax>200</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -93,6 +93,30 @@
 			<ymin>37</ymin>
 			<xmax>202</xmax>
 			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>275</ymin>
+			<xmax>186</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>275</ymin>
+			<xmax>198</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 </annotation>

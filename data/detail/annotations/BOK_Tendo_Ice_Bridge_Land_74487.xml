@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>9ED_Brushland_Land_84600.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\9ED_Brushland_Land_84600.jpg</path>
+	<filename>BOK_Tendo_Ice_Bridge_Land_74487.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Tendo_Ice_Bridge_Land_74487.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>19</ymin>
-			<xmax>76</xmax>
+			<xmax>112</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>213</ymin>
-			<xmax>197</xmax>
-			<ymax>259</ymax>
+			<xmin>21</xmin>
+			<ymin>198</ymin>
+			<xmax>200</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>31</xmin>
-			<ymin>282</ymin>
-			<xmax>79</xmax>
-			<ymax>292</ymax>
+			<ymin>280</ymin>
+			<xmax>84</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 	<object>

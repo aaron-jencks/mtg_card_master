@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Helm_of_Kaldra_Legendary_47449.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Helm_of_Kaldra_Legendary_47449.jpg</path>
+	<filename>BOK_Genju_of_the_Realm_Legendary_75364.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Genju_of_the_Realm_Legendary_75364.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>17</ymin>
-			<xmax>104</xmax>
+			<xmax>125</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
+			<xmin>146</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,7 +43,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>173</ymin>
-			<xmax>165</xmax>
+			<xmax>132</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>187</xmin>
 			<ymin>173</ymin>
-			<xmax>201</xmax>
+			<xmax>203</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>193</ymin>
-			<xmax>198</xmax>
-			<ymax>276</ymax>
+			<ymin>203</ymin>
+			<xmax>200</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 	<object>

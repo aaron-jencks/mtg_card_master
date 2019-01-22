@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>BOK_Soratami_Mindsweeper_Creature_73995.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Soratami_Mindsweeper_Creature_73995.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>106</xmax>
-			<ymax>33</ymax>
+			<xmax>146</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>179</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>35</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>143</xmax>
-			<ymax>188</ymax>
+			<xmax>153</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>176</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmin>187</xmin>
+			<ymin>175</ymin>
+			<xmax>203</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
+			<xmin>20</xmin>
 			<ymin>203</ymin>
 			<xmax>198</xmax>
-			<ymax>268</ymax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>280</ymin>
-			<xmax>83</xmax>
-			<ymax>291</ymax>
+			<xmin>33</xmin>
+			<ymin>279</ymin>
+			<xmax>111</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 	<object>

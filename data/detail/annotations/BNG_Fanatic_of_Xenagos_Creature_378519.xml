@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>BNG_Fanatic_of_Xenagos_Creature_378519.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BNG_Fanatic_of_Xenagos_Creature_378519.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>106</xmax>
+			<xmax>122</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>143</xmax>
-			<ymax>188</ymax>
+			<xmax>148</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>187</xmin>
 			<ymin>176</ymin>
-			<xmax>201</xmax>
+			<xmax>204</xmax>
 			<ymax>189</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>198</xmax>
-			<ymax>268</ymax>
+			<ymin>198</ymin>
+			<xmax>196</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>83</xmax>
-			<ymax>291</ymax>
+			<xmax>75</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>

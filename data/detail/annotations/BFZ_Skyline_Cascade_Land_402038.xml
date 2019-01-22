@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Myriad_Landscape_Land_442232.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Myriad_Landscape_Land_442232.jpg</path>
+	<filename>BFZ_Skyline_Cascade_Land_402038.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BFZ_Skyline_Cascade_Land_402038.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>119</xmax>
-			<ymax>31</ymax>
+			<xmax>106</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,7 +79,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>93</xmax>
+			<xmax>87</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Island_Basic_11349.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Island_Basic_11349.jpg</path>
+	<filename>BTD_Swamp_Basic_27234.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BTD_Swamp_Basic_27234.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>14</ymin>
-			<xmax>57</xmax>
+			<xmax>66</xmax>
 			<ymax>27</ymax>
 		</bndbox>
 	</object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>21</xmin>
 			<ymin>172</ymin>
-			<xmax>50</xmax>
-			<ymax>183</ymax>
+			<xmax>47</xmax>
+			<ymax>182</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
+			<xmin>97</xmin>
+			<ymin>275</ymin>
+			<xmax>142</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,7 +65,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>169</xmin>
 			<ymin>171</ymin>
 			<xmax>198</xmax>
 			<ymax>184</ymax>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>89</xmin>
-			<ymin>198</ymin>
-			<xmax>134</xmax>
-			<ymax>260</ymax>
+			<xmin>79</xmin>
+			<ymin>197</ymin>
+			<xmax>142</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 </annotation>

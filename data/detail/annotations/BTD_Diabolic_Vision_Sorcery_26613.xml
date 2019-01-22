@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Nature's_Resurgence_Sorcery_12998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Nature's_Resurgence_Sorcery_12998.jpg</path>
+	<filename>BTD_Diabolic_Vision_Sorcery_26613.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BTD_Diabolic_Vision_Sorcery_26613.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>12</ymin>
-			<xmax>132</xmax>
-			<ymax>29</ymax>
+			<xmax>102</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>178</xmin>
 			<ymin>13</ymin>
 			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>27</xmin>
-			<ymin>196</ymin>
+			<ymin>194</ymin>
 			<xmax>195</xmax>
-			<ymax>262</ymax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
+			<xmin>84</xmin>
 			<ymin>275</ymin>
-			<xmax>148</xmax>
-			<ymax>285</ymax>
+			<xmax>157</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 	<object>

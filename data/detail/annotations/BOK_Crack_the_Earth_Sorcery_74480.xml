@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</path>
+	<filename>BOK_Crack_the_Earth_Sorcery_74480.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Crack_the_Earth_Sorcery_74480.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>141</xmax>
-			<ymax>32</ymax>
+			<xmax>106</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>189</xmin>
 			<ymin>19</ymin>
 			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,7 +43,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>57</xmax>
+			<xmax>102</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>187</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>203</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>281</ymin>
-			<xmax>79</xmax>
-			<ymax>291</ymax>
+			<xmax>90</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 	<object>

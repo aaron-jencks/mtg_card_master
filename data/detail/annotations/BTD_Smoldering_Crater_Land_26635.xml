@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Sulfurous_Springs_Land_11519.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Sulfurous_Springs_Land_11519.jpg</path>
+	<filename>BTD_Smoldering_Crater_Land_26635.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BTD_Smoldering_Crater_Land_26635.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>21</xmin>
 			<ymin>11</ymin>
-			<xmax>118</xmax>
+			<xmax>121</xmax>
 			<ymax>29</ymax>
 		</bndbox>
 	</object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
+			<xmin>95</xmin>
 			<ymin>274</ymin>
-			<xmax>150</xmax>
+			<xmax>145</xmax>
 			<ymax>287</ymax>
 		</bndbox>
 	</object>
@@ -77,7 +77,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>170</xmin>
 			<ymin>170</ymin>
 			<xmax>202</xmax>
 			<ymax>184</ymax>

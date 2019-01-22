@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Aether_Flash_Enchantment_25678.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Aether_Flash_Enchantment_25678.jpg</path>
+	<filename>BTD_Gaseous_Form_Enchantment_26641.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BTD_Gaseous_Form_Enchantment_26641.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>12</ymin>
-			<xmax>90</xmax>
-			<ymax>27</ymax>
+			<xmax>97</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
+			<xmin>179</xmin>
 			<ymin>13</ymin>
 			<xmax>205</xmax>
-			<ymax>27</ymax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>84</xmax>
-			<ymax>184</ymax>
+			<xmax>103</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>194</ymin>
-			<xmax>193</xmax>
-			<ymax>261</ymax>
+			<xmin>27</xmin>
+			<ymin>191</ymin>
+			<xmax>195</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,9 +77,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>275</ymin>
-			<xmax>154</xmax>
+			<xmin>93</xmin>
+			<ymin>274</ymin>
+			<xmax>149</xmax>
 			<ymax>288</ymax>
 		</bndbox>
 	</object>
@@ -89,7 +89,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
+			<xmin>167</xmin>
 			<ymin>168</ymin>
 			<xmax>201</xmax>
 			<ymax>184</ymax>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Spectral_Shift_Instant_73572.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Spectral_Shift_Instant_73572.jpg</path>
+	<filename>BOK_Disrupting_Shoal_Instant_74128.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BOK_Disrupting_Shoal_Instant_74128.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>18</ymin>
-			<xmax>94</xmax>
-			<ymax>33</ymax>
+			<xmax>110</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>179</xmin>
+			<xmin>168</xmin>
 			<ymin>17</ymin>
 			<xmax>202</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>54</xmax>
-			<ymax>187</ymax>
+			<xmax>99</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>186</xmin>
+			<xmin>187</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>202</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>194</ymin>
-			<xmax>194</xmax>
-			<ymax>276</ymax>
+			<ymin>199</ymin>
+			<xmax>201</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>33</xmin>
-			<ymin>281</ymin>
-			<xmax>69</xmax>
+			<ymin>280</ymin>
+			<xmax>89</xmax>
 			<ymax>290</ymax>
 		</bndbox>
 	</object>

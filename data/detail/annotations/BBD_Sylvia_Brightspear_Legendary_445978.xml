@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</path>
+	<filename>BBD_Sylvia_Brightspear_Legendary_445978.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\BBD_Sylvia_Brightspear_Legendary_445978.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>143</xmax>
-			<ymax>30</ymax>
+			<xmax>117</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,7 +29,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>171</xmin>
+			<xmin>181</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
 			<ymax>30</ymax>
@@ -78,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>205</xmax>
+			<ymin>198</ymin>
+			<xmax>202</xmax>
 			<ymax>281</ymax>
 		</bndbox>
 	</object>
@@ -91,7 +91,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>97</xmax>
+			<xmax>86</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>

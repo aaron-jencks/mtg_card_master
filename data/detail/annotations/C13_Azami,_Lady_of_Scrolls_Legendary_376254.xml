@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Helm_of_Kaldra_Legendary_47449.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Helm_of_Kaldra_Legendary_47449.jpg</path>
+	<filename>C13_Azami,_Lady_of_Scrolls_Legendary_376254.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C13_Azami,_Lady_of_Scrolls_Legendary_376254.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>17</ymin>
-			<xmax>104</xmax>
+			<xmax>137</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
+			<xmin>156</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>173</ymin>
-			<xmax>165</xmax>
-			<ymax>188</ymax>
+			<xmax>188</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>173</ymin>
-			<xmax>201</xmax>
-			<ymax>188</ymax>
+			<xmin>188</xmin>
+			<ymin>175</ymin>
+			<xmax>204</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>193</ymin>
-			<xmax>198</xmax>
-			<ymax>276</ymax>
+			<ymin>198</ymin>
+			<xmax>191</xmax>
+			<ymax>273</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>282</ymin>
-			<xmax>90</xmax>
-			<ymax>289</ymax>
+			<xmax>58</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -93,6 +93,30 @@
 			<ymin>37</ymin>
 			<xmax>202</xmax>
 			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>276</ymin>
+			<xmax>186</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>276</ymin>
+			<xmax>198</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>
