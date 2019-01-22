@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Myriad_Landscape_Land_442232.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Myriad_Landscape_Land_442232.jpg</path>
+	<filename>C15_Golgari_Rot_Farm_Land_405247.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C15_Golgari_Rot_Farm_Land_405247.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>119</xmax>
-			<ymax>31</ymax>
+			<xmax>111</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>187</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
-			<ymax>191</ymax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>203</xmax>
-			<ymax>285</ymax>
+			<ymin>204</ymin>
+			<xmax>204</xmax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,7 +79,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>93</xmax>
+			<xmax>78</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>

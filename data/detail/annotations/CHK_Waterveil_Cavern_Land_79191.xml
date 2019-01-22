@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>ARC_Tranquil_Thicket_Land_220494.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Tranquil_Thicket_Land_220494.jpg</path>
+	<filename>CHK_Waterveil_Cavern_Land_79191.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHK_Waterveil_Cavern_Land_79191.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>17</ymin>
-			<xmax>113</xmax>
-			<ymax>33</ymax>
+			<xmax>115</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>22</xmin>
-			<ymin>204</ymin>
-			<xmax>199</xmax>
-			<ymax>268</ymax>
+			<ymin>210</ymin>
+			<xmax>197</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,7 +67,7 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>281</ymin>
-			<xmax>89</xmax>
+			<xmax>70</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>185</xmin>
 			<ymin>174</ymin>
 			<xmax>204</xmax>
-			<ymax>189</ymax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 </annotation>

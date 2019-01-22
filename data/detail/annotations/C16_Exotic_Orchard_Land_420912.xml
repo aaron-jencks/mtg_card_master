@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Myriad_Landscape_Land_442232.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Myriad_Landscape_Land_442232.jpg</path>
+	<filename>C16_Exotic_Orchard_Land_420912.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C16_Exotic_Orchard_Land_420912.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>119</xmax>
-			<ymax>31</ymax>
+			<xmax>101</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>203</xmax>
-			<ymax>285</ymax>
+			<ymin>200</ymin>
+			<xmax>206</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Curiosity_Enchantment_442041.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Curiosity_Enchantment_442041.jpg</path>
+	<filename>C14_Cathars'_Crusade_Enchantment_389459.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C14_Cathars'_Crusade_Enchantment_389459.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>67</xmax>
-			<ymax>32</ymax>
+			<xmax>109</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
+			<xmin>169</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>30</ymax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>176</ymin>
-			<xmax>115</xmax>
-			<ymax>190</ymax>
+			<xmax>81</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,7 +65,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>185</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
 			<ymax>191</ymax>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>195</ymin>
+			<ymin>198</ymin>
 			<xmax>203</xmax>
-			<ymax>285</ymax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,7 +91,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>82</xmax>
+			<xmax>88</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>

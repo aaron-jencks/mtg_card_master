@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Path_of_Peace_Sorcery_442018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Path_of_Peace_Sorcery_442018.jpg</path>
+	<filename>C17_New_Blood_Sorcery_433260.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C17_New_Blood_Sorcery_433260.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>94</xmax>
+			<xmax>78</xmax>
 			<ymax>31</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
+			<xmin>170</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>17</xmin>
-			<ymin>212</ymin>
-			<xmax>189</xmax>
-			<ymax>267</ymax>
+			<ymin>195</ymin>
+			<xmax>202</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,7 +91,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>82</xmax>
+			<xmax>86</xmax>
 			<ymax>303</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>ALL_Kaysa_Legendary_3145.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\ALL_Kaysa_Legendary_3145.jpg</path>
+	<filename>CHR_Xira_Arien_Legendary_2885.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHR_Xira_Arien_Legendary_2885.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>12</ymin>
-			<xmax>51</xmax>
-			<ymax>27</ymax>
+			<xmax>73</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>26</xmin>
-			<ymin>31</ymin>
+			<ymin>32</ymin>
 			<xmax>196</xmax>
-			<ymax>166</ymax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>170</ymin>
-			<xmax>196</xmax>
+			<xmin>187</xmin>
+			<ymin>171</ymin>
+			<xmax>201</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>198</ymin>
-			<xmax>187</xmax>
-			<ymax>257</ymax>
+			<xmin>31</xmin>
+			<ymin>192</ymin>
+			<xmax>189</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,7 +115,7 @@
 		<bndbox>
 			<xmin>39</xmin>
 			<ymin>274</ymin>
-			<xmax>96</xmax>
+			<xmax>100</xmax>
 			<ymax>286</ymax>
 		</bndbox>
 	</object>

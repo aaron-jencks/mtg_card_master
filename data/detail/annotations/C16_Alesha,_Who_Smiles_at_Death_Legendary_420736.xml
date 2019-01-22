@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</path>
+	<filename>C16_Alesha,_Who_Smiles_at_Death_Legendary_420736.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C16_Alesha,_Who_Smiles_at_Death_Legendary_420736.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>143</xmax>
-			<ymax>30</ymax>
+			<xmax>171</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,7 +29,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>171</xmin>
+			<xmin>181</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
 			<ymax>30</ymax>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>176</ymin>
-			<xmax>188</xmax>
+			<xmax>191</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>97</xmax>
-			<ymax>303</ymax>
+			<xmax>112</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>

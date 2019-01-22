@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Darien,_King_of_Kjeldor_Legendary_441998.jpg</path>
+	<filename>C17_Anowon,_the_Ruin_Sage_Legendary_433028.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C17_Anowon,_the_Ruin_Sage_Legendary_433028.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>176</ymin>
-			<xmax>188</xmax>
+			<xmax>191</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>205</xmax>
-			<ymax>281</ymax>
+			<ymin>202</ymin>
+			<xmax>203</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>97</xmax>
-			<ymax>303</ymax>
+			<xmax>77</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>

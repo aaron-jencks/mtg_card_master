@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>AKH_Mountain_Basic_426967.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\AKH_Mountain_Basic_426967.jpg</path>
+	<filename>C15_Island_Basic_405263.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C15_Island_Basic_405263.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>15</ymin>
-			<xmax>72</xmax>
-			<ymax>31</ymax>
+			<xmax>54</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>175</ymin>
-			<xmax>126</xmax>
-			<ymax>191</ymax>
+			<xmax>110</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
+			<xmin>187</xmin>
 			<ymin>176</ymin>
 			<xmax>206</xmax>
-			<ymax>191</ymax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>80</xmin>
-			<ymin>204</ymin>
-			<xmax>147</xmax>
-			<ymax>276</ymax>
+			<xmin>88</xmin>
+			<ymin>207</ymin>
+			<xmax>133</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>83</xmax>
-			<ymax>302</ymax>
+			<xmax>100</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>

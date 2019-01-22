@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>ARC_Forest_Basic_221297.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Forest_Basic_221297.jpg</path>
+	<filename>CHK_Mountain_Basic_79077.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHK_Mountain_Basic_79077.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>17</ymin>
-			<xmax>57</xmax>
-			<ymax>32</ymax>
+			<xmax>72</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,7 +43,7 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>176</ymin>
-			<xmax>114</xmax>
+			<xmax>126</xmax>
 			<ymax>189</ymax>
 		</bndbox>
 	</object>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>281</ymin>
-			<xmax>88</xmax>
+			<xmax>69</xmax>
 			<ymax>292</ymax>
 		</bndbox>
 	</object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>188</xmin>
 			<ymin>174</ymin>
-			<xmax>204</xmax>
+			<xmax>202</xmax>
 			<ymax>189</ymax>
 		</bndbox>
 	</object>

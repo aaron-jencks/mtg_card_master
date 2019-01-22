@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Bog_Imp_Creature_11179.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Bog_Imp_Creature_11179.jpg</path>
+	<filename>CHR_D'Avenant_Archer_Creature_2856.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHR_D'Avenant_Archer_Creature_2856.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
+			<xmin>20</xmin>
 			<ymin>13</ymin>
-			<xmax>72</xmax>
-			<ymax>29</ymax>
+			<xmax>110</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>101</xmax>
+			<xmax>98</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>26</xmin>
 			<ymin>205</ymin>
-			<xmax>195</xmax>
-			<ymax>256</ymax>
+			<xmax>178</xmax>
+			<ymax>245</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>184</xmin>
-			<ymin>278</ymin>
+			<ymin>275</ymin>
 			<xmax>195</xmax>
-			<ymax>292</ymax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>195</xmin>
-			<ymin>277</ymin>
+			<ymin>275</ymin>
 			<xmax>206</xmax>
-			<ymax>292</ymax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
+			<xmin>40</xmin>
+			<ymin>275</ymin>
+			<xmax>101</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,8 +113,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>168</ymin>
+			<xmin>185</xmin>
+			<ymin>170</ymin>
 			<xmax>201</xmax>
 			<ymax>185</ymax>
 		</bndbox>

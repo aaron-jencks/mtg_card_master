@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Path_of_Peace_Sorcery_442018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Path_of_Peace_Sorcery_442018.jpg</path>
+	<filename>C16_Wheel_of_Fate_Sorcery_420755.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C16_Wheel_of_Fate_Sorcery_420755.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,18 +24,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cmc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>181</xmin>
-			<ymin>15</ymin>
-			<xmax>208</xmax>
-			<ymax>31</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>image</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
+			<xmin>27</xmin>
 			<ymin>176</ymin>
-			<xmax>55</xmax>
-			<ymax>191</ymax>
+			<xmax>66</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>212</ymin>
-			<xmax>189</xmax>
-			<ymax>267</ymax>
+			<xmin>18</xmin>
+			<ymin>198</ymin>
+			<xmax>205</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>

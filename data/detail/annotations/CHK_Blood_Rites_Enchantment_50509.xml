@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>ARC_Rancor_Enchantment_220577.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Rancor_Enchantment_220577.jpg</path>
+	<filename>CHK_Blood_Rites_Enchantment_50509.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHK_Blood_Rites_Enchantment_50509.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
+			<xmin>19</xmin>
 			<ymin>17</ymin>
-			<xmax>61</xmax>
-			<ymax>32</ymax>
+			<xmax>82</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>167</xmin>
 			<ymin>17</ymin>
 			<xmax>205</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,8 +54,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>22</xmin>
-			<ymin>176</ymin>
-			<xmax>119</xmax>
+			<ymin>175</ymin>
+			<xmax>82</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>195</ymin>
-			<xmax>196</xmax>
-			<ymax>276</ymax>
+			<xmin>21</xmin>
+			<ymin>203</ymin>
+			<xmax>201</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>33</xmin>
-			<ymin>281</ymin>
-			<xmax>74</xmax>
+			<ymin>280</ymin>
+			<xmax>83</xmax>
 			<ymax>292</ymax>
 		</bndbox>
 	</object>
@@ -89,7 +89,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>185</xmin>
 			<ymin>174</ymin>
 			<xmax>204</xmax>
 			<ymax>190</ymax>

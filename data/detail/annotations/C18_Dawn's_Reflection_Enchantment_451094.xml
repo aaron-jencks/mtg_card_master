@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Curiosity_Enchantment_442041.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Curiosity_Enchantment_442041.jpg</path>
+	<filename>C18_Dawn's_Reflection_Enchantment_451094.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C18_Dawn's_Reflection_Enchantment_451094.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>67</xmax>
-			<ymax>32</ymax>
+			<xmax>116</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
+			<xmin>181</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>30</ymax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>203</xmax>
-			<ymax>285</ymax>
+			<xmin>16</xmin>
+			<ymin>200</ymin>
+			<xmax>205</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>82</xmax>
-			<ymax>303</ymax>
+			<xmax>77</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 </annotation>

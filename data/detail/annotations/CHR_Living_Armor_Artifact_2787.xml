@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Ivory_Cup_Artifact_25650.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Ivory_Cup_Artifact_25650.jpg</path>
+	<filename>CHR_Living_Armor_Artifact_2787.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHR_Living_Armor_Artifact_2787.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>12</ymin>
-			<xmax>78</xmax>
+			<xmin>18</xmin>
+			<ymin>11</ymin>
+			<xmax>92</xmax>
 			<ymax>29</ymax>
 		</bndbox>
 	</object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>188</xmin>
 			<ymin>13</ymin>
-			<xmax>208</xmax>
+			<xmax>205</xmax>
 			<ymax>28</ymax>
 		</bndbox>
 	</object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
+			<xmin>26</xmin>
 			<ymin>31</ymin>
-			<xmax>196</xmax>
+			<xmax>195</xmax>
 			<ymax>167</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>172</ymin>
-			<xmax>60</xmax>
-			<ymax>184</ymax>
+			<xmin>19</xmin>
+			<ymin>171</ymin>
+			<xmax>57</xmax>
+			<ymax>183</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>200</ymin>
-			<xmax>196</xmax>
-			<ymax>259</ymax>
+			<xmin>31</xmin>
+			<ymin>192</ymin>
+			<xmax>189</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,9 +77,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>275</ymin>
-			<xmax>146</xmax>
+			<xmin>38</xmin>
+			<ymin>274</ymin>
+			<xmax>108</xmax>
 			<ymax>286</ymax>
 		</bndbox>
 	</object>
@@ -89,7 +89,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
+			<xmin>185</xmin>
 			<ymin>169</ymin>
 			<xmax>198</xmax>
 			<ymax>184</ymax>

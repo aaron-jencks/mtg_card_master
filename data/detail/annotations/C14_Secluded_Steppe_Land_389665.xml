@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Myriad_Landscape_Land_442232.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Myriad_Landscape_Land_442232.jpg</path>
+	<filename>C14_Secluded_Steppe_Land_389665.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C14_Secluded_Steppe_Land_389665.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>119</xmax>
+			<xmax>108</xmax>
 			<ymax>31</ymax>
 		</bndbox>
 	</object>
@@ -53,7 +53,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>186</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
 			<ymax>191</ymax>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>203</xmax>
-			<ymax>285</ymax>
+			<xmin>17</xmin>
+			<ymin>206</ymin>
+			<xmax>202</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>

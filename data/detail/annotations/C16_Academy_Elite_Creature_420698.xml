@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>A25_Krosan_Tusker_Creature_442167.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\A25_Krosan_Tusker_Creature_442167.jpg</path>
+	<filename>C16_Academy_Elite_Creature_420698.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\C16_Academy_Elite_Creature_420698.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
+			<xmin>181</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>176</ymin>
-			<xmax>121</xmax>
-			<ymax>191</ymax>
+			<xmax>138</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>82</xmax>
-			<ymax>303</ymax>
+			<xmax>84</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>

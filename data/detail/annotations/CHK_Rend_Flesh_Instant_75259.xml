@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>ARC_Colossal_Might_Instant_220519.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\ARC_Colossal_Might_Instant_220519.jpg</path>
+	<filename>CHK_Rend_Flesh_Instant_75259.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CHK_Rend_Flesh_Instant_75259.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>17</ymin>
-			<xmax>100</xmax>
-			<ymax>32</ymax>
+			<xmax>80</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>58</xmax>
-			<ymax>188</ymax>
+			<xmax>99</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>22</xmin>
-			<ymin>205</ymin>
+			<ymin>203</ymin>
 			<xmax>201</xmax>
-			<ymax>266</ymax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>281</ymin>
-			<xmax>78</xmax>
-			<ymax>292</ymax>
+			<xmax>86</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,7 +89,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>186</xmin>
 			<ymin>174</ymin>
 			<xmax>204</xmax>
 			<ymax>189</ymax>
