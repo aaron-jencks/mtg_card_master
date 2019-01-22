@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Stasis_Cocoon_Enchantment_51607.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Stasis_Cocoon_Enchantment_51607.jpg</path>
+	<filename>CMA_Diabolic_Servitude_Enchantment_430272.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CMA_Diabolic_Servitude_Enchantment_430272.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>18</ymin>
-			<xmax>96</xmax>
-			<ymax>33</ymax>
+			<xmin>19</xmin>
+			<ymin>16</ymin>
+			<xmax>119</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
-			<ymin>18</ymin>
-			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<xmin>182</xmin>
+			<ymin>16</ymin>
+			<xmax>207</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>175</ymin>
-			<xmax>95</xmax>
-			<ymax>187</ymax>
+			<xmin>17</xmin>
+			<ymin>178</ymin>
+			<xmax>80</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>174</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmin>192</xmin>
+			<ymin>176</ymin>
+			<xmax>207</xmax>
+			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>196</ymin>
-			<xmax>198</xmax>
-			<ymax>275</ymax>
+			<xmax>202</xmax>
+			<ymax>283</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>279</ymin>
-			<xmax>73</xmax>
-			<ymax>290</ymax>
+			<xmin>48</xmin>
+			<ymin>293</ymin>
+			<xmax>93</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>36</ymin>
-			<xmax>202</xmax>
-			<ymax>170</ymax>
+			<xmin>18</xmin>
+			<ymin>35</ymin>
+			<xmax>205</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>
