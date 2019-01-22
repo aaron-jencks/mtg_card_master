@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Stasis_Cocoon_Enchantment_51607.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Stasis_Cocoon_Enchantment_51607.jpg</path>
+	<filename>CM1_Mirari's_Wake_Enchantment_338455.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM1_Mirari's_Wake_Enchantment_338455.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
+			<xmin>168</xmin>
 			<ymin>18</ymin>
 			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>175</ymin>
-			<xmax>95</xmax>
-			<ymax>187</ymax>
+			<xmax>84</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>174</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmin>190</xmin>
+			<ymin>175</ymin>
+			<xmax>206</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
+			<xmin>22</xmin>
 			<ymin>196</ymin>
-			<xmax>198</xmax>
+			<xmax>201</xmax>
 			<ymax>275</ymax>
 		</bndbox>
 	</object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>279</ymin>
-			<xmax>73</xmax>
-			<ymax>290</ymax>
+			<xmax>75</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>

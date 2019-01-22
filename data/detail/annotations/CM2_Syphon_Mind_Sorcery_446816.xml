@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CM2_Crib_Swap_Tribal_446758.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM2_Crib_Swap_Tribal_446758.jpg</path>
+	<filename>CM2_Syphon_Mind_Sorcery_446816.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM2_Syphon_Mind_Sorcery_446816.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>17</xmin>
-			<ymin>15</ymin>
-			<xmax>73</xmax>
+			<ymin>14</ymin>
+			<xmax>90</xmax>
 			<ymax>31</ymax>
 		</bndbox>
 	</object>
@@ -30,57 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>181</xmin>
-			<ymin>16</ymin>
-			<xmax>208</xmax>
-			<ymax>30</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>type</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>16</xmin>
-			<ymin>176</ymin>
-			<xmax>151</xmax>
-			<ymax>190</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>193</xmin>
-			<ymin>175</ymin>
-			<xmax>207</xmax>
-			<ymax>192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>text</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>17</xmin>
-			<ymin>209</ymin>
-			<xmax>193</xmax>
-			<ymax>272</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>artist</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>47</xmin>
-			<ymin>294</ymin>
-			<xmax>96</xmax>
-			<ymax>303</ymax>
+			<ymin>14</ymin>
+			<xmax>209</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +43,56 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>35</ymin>
-			<xmax>205</xmax>
-			<ymax>174</ymax>
+			<xmax>206</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>type</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>176</ymin>
+			<xmax>55</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>176</ymin>
+			<xmax>206</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>206</ymin>
+			<xmax>201</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>artist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>293</ymin>
+			<xmax>78</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 </annotation>

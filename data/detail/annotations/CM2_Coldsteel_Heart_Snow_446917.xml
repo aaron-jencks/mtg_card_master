@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>C14_Adarkar_Valkyrie_Snow_389423.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\C14_Adarkar_Valkyrie_Snow_389423.jpg</path>
+	<filename>CM2_Coldsteel_Heart_Snow_446917.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM2_Coldsteel_Heart_Snow_446917.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>14</ymin>
-			<xmax>110</xmax>
+			<xmax>102</xmax>
 			<ymax>32</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
+			<xmin>192</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>175</ymin>
-			<xmax>125</xmax>
-			<ymax>191</ymax>
+			<xmax>81</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
+			<xmin>192</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
-			<ymax>192</ymax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,32 +79,20 @@
 		<bndbox>
 			<xmin>46</xmin>
 			<ymin>293</ymin>
-			<xmax>85</xmax>
-			<ymax>303</ymax>
+			<xmax>95</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>power</name>
+		<name>image</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>278</ymin>
-			<xmax>191</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>191</xmin>
-			<ymin>278</ymin>
-			<xmax>202</xmax>
-			<ymax>293</ymax>
+			<xmin>18</xmin>
+			<ymin>35</ymin>
+			<xmax>205</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 </annotation>

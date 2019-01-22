@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>CM1_Loyal_Retainers_Creature_338450.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM1_Loyal_Retainers_Creature_338450.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>179</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>189</xmin>
 			<ymin>176</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmax>205</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>83</xmax>
-			<ymax>291</ymax>
+			<xmax>96</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>173</xmin>
-			<ymin>275</ymin>
+			<ymin>277</ymin>
 			<xmax>187</xmax>
-			<ymax>289</ymax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>187</xmin>
-			<ymin>275</ymin>
+			<ymin>277</ymin>
 			<xmax>197</xmax>
-			<ymax>289</ymax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>

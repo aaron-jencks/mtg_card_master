@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CM2_Crib_Swap_Tribal_446758.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM2_Crib_Swap_Tribal_446758.jpg</path>
+	<filename>CM2_Bitter_Feud_Enchantment_446820.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM2_Bitter_Feud_Enchantment_446820.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>15</ymin>
-			<xmax>73</xmax>
-			<ymax>31</ymax>
+			<xmax>79</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -32,7 +32,19 @@
 			<xmin>181</xmin>
 			<ymin>16</ymin>
 			<xmax>208</xmax>
-			<ymax>30</ymax>
+			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>35</ymin>
+			<xmax>205</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
+			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>151</xmax>
+			<xmax>80</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
-			<ymin>175</ymin>
+			<xmin>192</xmin>
+			<ymin>176</ymin>
 			<xmax>207</xmax>
-			<ymax>192</ymax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>209</ymin>
-			<xmax>193</xmax>
-			<ymax>272</ymax>
+			<xmin>18</xmin>
+			<ymin>196</ymin>
+			<xmax>199</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
+			<xmin>46</xmin>
 			<ymin>294</ymin>
-			<xmax>96</xmax>
+			<xmax>87</xmax>
 			<ymax>303</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>18</xmin>
-			<ymin>35</ymin>
-			<xmax>205</xmax>
-			<ymax>174</ymax>
 		</bndbox>
 	</object>
 </annotation>

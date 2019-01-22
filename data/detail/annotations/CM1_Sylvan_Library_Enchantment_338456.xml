@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Stasis_Cocoon_Enchantment_51607.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Stasis_Cocoon_Enchantment_51607.jpg</path>
+	<filename>CM1_Sylvan_Library_Enchantment_338456.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CM1_Sylvan_Library_Enchantment_338456.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>18</ymin>
-			<xmax>96</xmax>
+			<xmax>99</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>175</ymin>
-			<xmax>95</xmax>
-			<ymax>187</ymax>
+			<xmax>84</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>174</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmin>189</xmin>
+			<ymin>175</ymin>
+			<xmax>205</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>196</ymin>
-			<xmax>198</xmax>
-			<ymax>275</ymax>
+			<xmin>20</xmin>
+			<ymin>201</ymin>
+			<xmax>202</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>279</ymin>
-			<xmax>73</xmax>
-			<ymax>290</ymax>
+			<xmax>87</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 	<object>
