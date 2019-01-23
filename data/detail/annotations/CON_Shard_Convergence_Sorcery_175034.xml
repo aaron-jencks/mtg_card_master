@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</path>
+	<filename>CON_Shard_Convergence_Sorcery_175034.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CON_Shard_Convergence_Sorcery_175034.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>141</xmax>
-			<ymax>32</ymax>
+			<xmax>127</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>179</xmin>
 			<ymin>19</ymin>
 			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>57</xmax>
-			<ymax>188</ymax>
+			<xmax>59</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>187</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>203</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>196</xmax>
-			<ymax>269</ymax>
+			<ymin>200</ymin>
+			<xmax>200</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>281</ymin>
-			<xmax>79</xmax>
-			<ymax>291</ymax>
+			<xmin>34</xmin>
+			<ymin>282</ymin>
+			<xmax>81</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,9 +89,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
+			<xmin>19</xmin>
 			<ymin>36</ymin>
-			<xmax>202</xmax>
+			<xmax>203</xmax>
 			<ymax>171</ymax>
 		</bndbox>
 	</object>

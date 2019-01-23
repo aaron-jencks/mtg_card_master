@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Helm_of_Kaldra_Legendary_47449.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Helm_of_Kaldra_Legendary_47449.jpg</path>
+	<filename>CMA_Mazirek,_Kraul_Death_Priest_Legendary_430404.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CMA_Mazirek,_Kraul_Death_Priest_Legendary_430404.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
+			<xmin>18</xmin>
 			<ymin>17</ymin>
-			<xmax>104</xmax>
-			<ymax>33</ymax>
+			<xmax>165</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>18</ymin>
-			<xmax>204</xmax>
+			<xmin>170</xmin>
+			<ymin>14</ymin>
+			<xmax>208</xmax>
 			<ymax>32</ymax>
 		</bndbox>
 	</object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>173</ymin>
-			<xmax>165</xmax>
-			<ymax>188</ymax>
+			<xmax>186</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>173</ymin>
-			<xmax>201</xmax>
-			<ymax>188</ymax>
+			<xmin>192</xmin>
+			<ymin>176</ymin>
+			<xmax>206</xmax>
+			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>193</ymin>
-			<xmax>198</xmax>
+			<xmin>17</xmin>
+			<ymin>203</ymin>
+			<xmax>192</xmax>
 			<ymax>276</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>90</xmax>
-			<ymax>289</ymax>
+			<xmin>48</xmin>
+			<ymin>295</ymin>
+			<xmax>95</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
+			<xmin>18</xmin>
+			<ymin>36</ymin>
+			<xmax>205</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>278</ymin>
+			<xmax>191</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>279</ymin>
 			<xmax>202</xmax>
-			<ymax>172</ymax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

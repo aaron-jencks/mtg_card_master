@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CNS_Spectral_Searchlight_Artifact_382369.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CNS_Spectral_Searchlight_Artifact_382369.jpg</path>
+	<filename>CN2_Summoner's_Bond_Conspiracy_416768.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CN2_Summoner's_Bond_Conspiracy_416768.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>18</ymin>
-			<xmax>128</xmax>
-			<ymax>32</ymax>
+			<xmin>18</xmin>
+			<ymin>16</ymin>
+			<xmax>117</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cmc</name>
+		<name>image</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>19</ymin>
-			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<xmin>17</xmin>
+			<ymin>36</ymin>
+			<xmax>205</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
+			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>58</xmax>
+			<xmax>70</xmax>
 			<ymax>191</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
-			<ymin>175</ymin>
-			<xmax>205</xmax>
-			<ymax>189</ymax>
+			<xmin>184</xmin>
+			<ymin>176</ymin>
+			<xmax>199</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>18</xmin>
 			<ymin>200</ymin>
-			<xmax>202</xmax>
-			<ymax>274</ymax>
+			<xmax>207</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>94</xmax>
-			<ymax>293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
-			<xmax>203</xmax>
-			<ymax>171</ymax>
+			<xmin>48</xmin>
+			<ymin>293</ymin>
+			<xmax>84</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 </annotation>

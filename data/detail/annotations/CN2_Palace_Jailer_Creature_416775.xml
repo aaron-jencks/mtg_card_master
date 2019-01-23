@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CON_Rakka_Mar_Legendary_185810.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CON_Rakka_Mar_Legendary_185810.jpg</path>
+	<filename>CN2_Palace_Jailer_Creature_416775.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CN2_Palace_Jailer_Creature_416775.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>17</ymin>
-			<xmax>82</xmax>
-			<ymax>33</ymax>
+			<xmin>18</xmin>
+			<ymin>16</ymin>
+			<xmax>87</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>cmc</name>
+		<name>image</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>18</ymin>
-			<xmax>204</xmax>
-			<ymax>33</ymax>
+			<xmin>17</xmin>
+			<ymin>36</ymin>
+			<xmax>205</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>173</ymin>
-			<xmax>185</xmax>
+			<xmin>17</xmin>
+			<ymin>176</ymin>
+			<xmax>140</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>173</ymin>
-			<xmax>203</xmax>
-			<ymax>188</ymax>
+			<xmin>191</xmin>
+			<ymin>176</ymin>
+			<xmax>207</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>197</ymin>
-			<xmax>201</xmax>
-			<ymax>274</ymax>
+			<xmin>18</xmin>
+			<ymin>199</ymin>
+			<xmax>203</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +77,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>34</xmin>
-			<ymin>282</ymin>
-			<xmax>73</xmax>
-			<ymax>292</ymax>
+			<xmin>48</xmin>
+			<ymin>294</ymin>
+			<xmax>91</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>image</name>
+		<name>cmc</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
-			<xmax>202</xmax>
-			<ymax>172</ymax>
+			<xmin>170</xmin>
+			<ymin>15</ymin>
+			<xmax>209</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>176</xmin>
-			<ymin>276</ymin>
-			<xmax>186</xmax>
-			<ymax>291</ymax>
+			<xmin>181</xmin>
+			<ymin>278</ymin>
+			<xmax>192</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>277</ymin>
-			<xmax>199</xmax>
-			<ymax>291</ymax>
+			<xmin>192</xmin>
+			<ymin>278</ymin>
+			<xmax>204</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 </annotation>

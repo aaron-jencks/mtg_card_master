@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Helm_of_Kaldra_Legendary_47449.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Helm_of_Kaldra_Legendary_47449.jpg</path>
+	<filename>CMA_Predator,_Flagship_Legendary_430444.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CMA_Predator,_Flagship_Legendary_430444.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>19</xmin>
-			<ymin>17</ymin>
-			<xmax>104</xmax>
-			<ymax>33</ymax>
+			<ymin>16</ymin>
+			<xmax>115</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>18</ymin>
-			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<xmin>192</xmin>
+			<ymin>16</ymin>
+			<xmax>208</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>173</ymin>
-			<xmax>165</xmax>
-			<ymax>188</ymax>
+			<xmin>18</xmin>
+			<ymin>175</ymin>
+			<xmax>103</xmax>
+			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>173</ymin>
-			<xmax>201</xmax>
-			<ymax>188</ymax>
+			<xmin>191</xmin>
+			<ymin>177</ymin>
+			<xmax>207</xmax>
+			<ymax>192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>193</ymin>
-			<xmax>198</xmax>
-			<ymax>276</ymax>
+			<xmin>18</xmin>
+			<ymin>203</ymin>
+			<xmax>203</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>90</xmax>
-			<ymax>289</ymax>
+			<xmin>47</xmin>
+			<ymin>295</ymin>
+			<xmax>81</xmax>
+			<ymax>302</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,7 +91,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>37</ymin>
-			<xmax>202</xmax>
+			<xmax>204</xmax>
 			<ymax>172</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>CNS_Pelakka_Wurm_Creature_382322.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CNS_Pelakka_Wurm_Creature_382322.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>106</xmax>
+			<xmax>99</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>158</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>143</xmax>
-			<ymax>188</ymax>
+			<xmax>103</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>198</xmax>
-			<ymax>268</ymax>
+			<ymin>201</ymin>
+			<xmax>201</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>83</xmax>
-			<ymax>291</ymax>
+			<xmax>91</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,9 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>173</xmin>
-			<ymin>275</ymin>
+			<ymin>277</ymin>
 			<xmax>187</xmax>
-			<ymax>289</ymax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -102,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>187</xmin>
-			<ymin>275</ymin>
+			<ymin>277</ymin>
 			<xmax>197</xmax>
-			<ymax>289</ymax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,7 +115,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>36</ymin>
-			<xmax>201</xmax>
+			<xmax>203</xmax>
 			<ymax>171</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>9ED_Plains_Basic_83208.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\9ED_Plains_Basic_83208.jpg</path>
+	<filename>CSP_Snow-Covered_Plains_Basic_121267.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CSP_Snow-Covered_Plains_Basic_121267.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>16</xmin>
 			<ymin>17</ymin>
-			<xmax>53</xmax>
-			<ymax>35</ymax>
+			<xmax>137</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>174</ymin>
-			<xmax>115</xmax>
-			<ymax>189</ymax>
+			<xmax>138</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>175</ymin>
-			<xmax>201</xmax>
-			<ymax>190</ymax>
+			<xmin>192</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>78</xmin>
+			<xmin>77</xmin>
 			<ymin>200</ymin>
-			<xmax>147</xmax>
-			<ymax>270</ymax>
+			<xmax>150</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>95</xmax>
-			<ymax>290</ymax>
+			<xmax>91</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>

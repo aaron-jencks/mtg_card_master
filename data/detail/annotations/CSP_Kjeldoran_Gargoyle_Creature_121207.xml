@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>CSP_Kjeldoran_Gargoyle_Creature_121207.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CSP_Kjeldoran_Gargoyle_Creature_121207.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>106</xmax>
-			<ymax>33</ymax>
+			<xmax>127</xmax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>180</xmin>
 			<ymin>18</ymin>
 			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>176</ymin>
-			<xmax>143</xmax>
-			<ymax>188</ymax>
+			<xmax>116</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>176</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmin>190</xmin>
+			<ymin>175</ymin>
+			<xmax>206</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>198</xmax>
-			<ymax>268</ymax>
+			<ymin>200</ymin>
+			<xmax>202</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,7 +79,7 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>280</ymin>
-			<xmax>83</xmax>
+			<xmax>87</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>
@@ -114,9 +114,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>19</xmin>
-			<ymin>36</ymin>
-			<xmax>201</xmax>
-			<ymax>171</ymax>
+			<ymin>37</ymin>
+			<xmax>203</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>

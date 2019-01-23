@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>C14_Hunting_Triad_Tribal_389550.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\C14_Hunting_Triad_Tribal_389550.jpg</path>
+	<filename>CMA_Hunting_Triad_Tribal_430335.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CMA_Hunting_Triad_Tribal_430335.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
+			<xmin>191</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
-			<ymax>191</ymax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>47</xmin>
 			<ymin>292</ymin>
-			<xmax>78</xmax>
-			<ymax>302</ymax>
+			<xmax>79</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>

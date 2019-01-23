@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CNS_Spectral_Searchlight_Artifact_382369.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CNS_Spectral_Searchlight_Artifact_382369.jpg</path>
+	<filename>DD1_Harmonize_Sorcery_159033.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DD1_Harmonize_Sorcery_159033.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>18</ymin>
-			<xmax>128</xmax>
-			<ymax>32</ymax>
+			<xmin>18</xmin>
+			<ymin>17</ymin>
+			<xmax>82</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>19</ymin>
-			<xmax>203</xmax>
+			<xmin>168</xmin>
+			<ymin>18</ymin>
+			<xmax>205</xmax>
 			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>36</ymin>
+			<xmax>204</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,20 +67,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>176</ymin>
-			<xmax>58</xmax>
-			<ymax>191</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>189</xmin>
-			<ymin>175</ymin>
-			<xmax>205</xmax>
-			<ymax>189</ymax>
+			<xmax>59</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>200</ymin>
-			<xmax>202</xmax>
-			<ymax>274</ymax>
+			<xmin>21</xmin>
+			<ymin>204</ymin>
+			<xmax>197</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,20 +91,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>282</ymin>
-			<xmax>94</xmax>
-			<ymax>293</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
-			<xmax>203</xmax>
-			<ymax>171</ymax>
+			<xmax>84</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

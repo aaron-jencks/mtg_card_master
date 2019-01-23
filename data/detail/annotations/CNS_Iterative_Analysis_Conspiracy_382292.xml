@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>CNS_Spectral_Searchlight_Artifact_382369.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\CNS_Spectral_Searchlight_Artifact_382369.jpg</path>
+	<filename>CNS_Iterative_Analysis_Conspiracy_382292.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CNS_Iterative_Analysis_Conspiracy_382292.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,21 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>19</xmin>
-			<ymin>18</ymin>
-			<xmax>128</xmax>
-			<ymax>32</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cmc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>188</xmin>
-			<ymin>19</ymin>
-			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<ymin>17</ymin>
+			<xmax>114</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +31,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>176</ymin>
-			<xmax>58</xmax>
-			<ymax>191</ymax>
+			<xmax>74</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
+			<xmin>185</xmin>
 			<ymin>175</ymin>
-			<xmax>205</xmax>
-			<ymax>189</ymax>
+			<xmax>196</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>200</ymin>
-			<xmax>202</xmax>
-			<ymax>274</ymax>
+			<xmin>21</xmin>
+			<ymin>194</ymin>
+			<xmax>200</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>94</xmax>
-			<ymax>293</ymax>
+			<ymin>283</ymin>
+			<xmax>84</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -92,7 +80,7 @@
 			<xmin>19</xmin>
 			<ymin>37</ymin>
 			<xmax>203</xmax>
-			<ymax>171</ymax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>

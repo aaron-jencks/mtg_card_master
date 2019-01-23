@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Eternal_Witness_Creature_51628.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Eternal_Witness_Creature_51628.jpg</path>
+	<filename>CMA_Mother_of_Runes_Creature_430236.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CMA_Mother_of_Runes_Creature_430236.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>223</width>
-		<height>310</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>19</ymin>
-			<xmax>106</xmax>
-			<ymax>33</ymax>
+			<xmin>18</xmin>
+			<ymin>16</ymin>
+			<xmax>109</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>18</ymin>
-			<xmax>204</xmax>
-			<ymax>32</ymax>
+			<xmin>193</xmin>
+			<ymin>16</ymin>
+			<xmax>207</xmax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>176</ymin>
-			<xmax>143</xmax>
-			<ymax>188</ymax>
+			<xmin>18</xmin>
+			<ymin>177</ymin>
+			<xmax>134</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>191</xmin>
 			<ymin>176</ymin>
-			<xmax>201</xmax>
-			<ymax>189</ymax>
+			<xmax>206</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,8 +65,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>203</ymin>
+			<xmin>17</xmin>
+			<ymin>213</ymin>
 			<xmax>198</xmax>
 			<ymax>268</ymax>
 		</bndbox>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>280</ymin>
-			<xmax>83</xmax>
-			<ymax>291</ymax>
+			<xmin>48</xmin>
+			<ymin>293</ymin>
+			<xmax>94</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>173</xmin>
-			<ymin>275</ymin>
-			<xmax>187</xmax>
-			<ymax>289</ymax>
+			<xmin>180</xmin>
+			<ymin>279</ymin>
+			<xmax>194</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>275</ymin>
-			<xmax>197</xmax>
-			<ymax>289</ymax>
+			<xmin>193</xmin>
+			<ymin>278</ymin>
+			<xmax>203</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -115,8 +115,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>36</ymin>
-			<xmax>201</xmax>
-			<ymax>171</ymax>
+			<xmax>205</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Beacon_of_Tomorrows_Sorcery_51610.jpg</path>
+	<filename>CSP_Feast_of_Flesh_Sorcery_121137.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\CSP_Feast_of_Flesh_Sorcery_121137.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>19</ymin>
-			<xmax>141</xmax>
-			<ymax>32</ymax>
+			<xmax>95</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>191</xmin>
 			<ymin>19</ymin>
-			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<xmax>205</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
+			<xmin>190</xmin>
 			<ymin>175</ymin>
-			<xmax>201</xmax>
+			<xmax>206</xmax>
 			<ymax>188</ymax>
 		</bndbox>
 	</object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>21</xmin>
-			<ymin>203</ymin>
-			<xmax>196</xmax>
-			<ymax>269</ymax>
+			<ymin>196</ymin>
+			<xmax>202</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>36</ymin>
-			<xmax>202</xmax>
-			<ymax>171</ymax>
+			<xmin>19</xmin>
+			<ymin>37</ymin>
+			<xmax>203</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>
