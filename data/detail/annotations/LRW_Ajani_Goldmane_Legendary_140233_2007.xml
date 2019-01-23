@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DD1_Moonglove_Extract_Artifact_159032_2007.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DD1_Moonglove_Extract_Artifact_159032_2007.jpg</path>
+	<filename>DD1_Harmonize_Sorcery_159033.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DD1_Harmonize_Sorcery_159033.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>18</ymin>
-			<xmax>124</xmax>
+			<xmin>18</xmin>
+			<ymin>17</ymin>
+			<xmax>82</xmax>
 			<ymax>33</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
-			<ymin>19</ymin>
-			<xmax>206</xmax>
+			<xmin>168</xmin>
+			<ymin>18</ymin>
+			<xmax>205</xmax>
 			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>36</ymin>
+			<xmax>204</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,20 +67,8 @@
 		<bndbox>
 			<xmin>20</xmin>
 			<ymin>176</ymin>
-			<xmax>58</xmax>
-			<ymax>189</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>178</xmin>
-			<ymin>175</ymin>
-			<xmax>205</xmax>
-			<ymax>190</ymax>
+			<xmax>59</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +79,8 @@
 		<bndbox>
 			<xmin>21</xmin>
 			<ymin>204</ymin>
-			<xmax>202</xmax>
-			<ymax>267</ymax>
+			<xmax>197</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,21 +90,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>33</xmin>
-			<ymin>283</ymin>
+			<ymin>282</ymin>
 			<xmax>84</xmax>
 			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
-			<xmax>203</xmax>
-			<ymax>171</ymax>
 		</bndbox>
 	</object>
 </annotation>
