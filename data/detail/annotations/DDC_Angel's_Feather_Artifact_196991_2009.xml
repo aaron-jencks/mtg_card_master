@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>5DN_Baton_of_Courage_Artifact_51375.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\5DN_Baton_of_Courage_Artifact_51375.jpg</path>
+	<filename>DDC_Angel's_Feather_Artifact_196991_2009.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDC_Angel's_Feather_Artifact_196991_2009.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>18</ymin>
-			<xmax>116</xmax>
+			<xmax>105</xmax>
 			<ymax>34</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>19</ymin>
-			<xmax>203</xmax>
-			<ymax>32</ymax>
+			<xmin>190</xmin>
+			<ymin>20</ymin>
+			<xmax>205</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
+			<xmin>21</xmin>
 			<ymin>176</ymin>
-			<xmax>57</xmax>
+			<xmax>58</xmax>
 			<ymax>189</ymax>
 		</bndbox>
 	</object>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>185</xmin>
-			<ymin>175</ymin>
-			<xmax>201</xmax>
-			<ymax>188</ymax>
+			<ymin>174</ymin>
+			<xmax>204</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>194</ymin>
-			<xmax>198</xmax>
-			<ymax>277</ymax>
+			<xmin>21</xmin>
+			<ymin>209</ymin>
+			<xmax>199</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,7 +79,7 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>282</ymin>
-			<xmax>88</xmax>
+			<xmax>77</xmax>
 			<ymax>290</ymax>
 		</bndbox>
 	</object>
