@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDS_Coat_of_Arms_Artifact_426630_2017.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDS_Coat_of_Arms_Artifact_426630_2017.jpg</path>
+	<filename>E02_Quicksilver_Amulet_Artifact_439386_2017.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\E02_Quicksilver_Amulet_Artifact_439386_2017.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>89</xmax>
+			<xmax>122</xmax>
 			<ymax>30</ymax>
 		</bndbox>
 	</object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>295</ymin>
-			<xmax>94</xmax>
-			<ymax>302</ymax>
+			<xmax>84</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>17</xmin>
-			<ymin>199</ymin>
-			<xmax>202</xmax>
-			<ymax>282</ymax>
+			<ymin>208</ymin>
+			<xmax>201</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDS_Coat_of_Arms_Artifact_426630_2017.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDS_Coat_of_Arms_Artifact_426630_2017.jpg</path>
+	<filename>E01_Gorehorn_Minotaurs_Creature_430588_2017.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\E01_Gorehorn_Minotaurs_Creature_430588_2017.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>89</xmax>
-			<ymax>30</ymax>
+			<xmax>129</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,7 +31,7 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>56</xmax>
+			<xmax>152</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>199</ymin>
+			<xmin>18</xmin>
+			<ymin>204</ymin>
 			<xmax>202</xmax>
-			<ymax>282</ymax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>170</xmin>
 			<ymin>15</ymin>
 			<xmax>209</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>278</ymin>
+			<xmax>192</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>278</ymin>
+			<xmax>201</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

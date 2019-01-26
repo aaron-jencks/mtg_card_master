@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDS_Coat_of_Arms_Artifact_426630_2017.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDS_Coat_of_Arms_Artifact_426630_2017.jpg</path>
+	<filename>E02_Blatant_Thievery_Sorcery_439350_2017.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\E02_Blatant_Thievery_Sorcery_439350_2017.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>89</xmax>
-			<ymax>30</ymax>
+			<xmax>107</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,7 +55,7 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>295</ymin>
-			<xmax>94</xmax>
+			<xmax>109</xmax>
 			<ymax>302</ymax>
 		</bndbox>
 	</object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>199</ymin>
+			<xmin>18</xmin>
+			<ymin>209</ymin>
 			<xmax>202</xmax>
-			<ymax>282</ymax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>158</xmin>
 			<ymin>15</ymin>
 			<xmax>209</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 </annotation>

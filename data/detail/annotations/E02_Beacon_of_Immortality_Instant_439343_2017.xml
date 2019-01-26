@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDS_Coat_of_Arms_Artifact_426630_2017.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDS_Coat_of_Arms_Artifact_426630_2017.jpg</path>
+	<filename>E02_Beacon_of_Immortality_Instant_439343_2017.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\E02_Beacon_of_Immortality_Instant_439343_2017.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>16</ymin>
-			<xmax>89</xmax>
-			<ymax>30</ymax>
+			<xmax>140</xmax>
+			<ymax>31</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,7 +31,7 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>56</xmax>
+			<xmax>53</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>189</xmin>
+			<xmin>192</xmin>
 			<ymin>176</ymin>
-			<xmax>206</xmax>
+			<xmax>208</xmax>
 			<ymax>192</ymax>
 		</bndbox>
 	</object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>17</xmin>
-			<ymin>199</ymin>
-			<xmax>202</xmax>
-			<ymax>282</ymax>
+			<ymin>208</ymin>
+			<xmax>197</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>193</xmin>
+			<xmin>182</xmin>
 			<ymin>15</ymin>
 			<xmax>209</xmax>
-			<ymax>31</ymax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 </annotation>
