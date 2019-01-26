@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDQ_Bonds_of_Faith_Enchantment_409578_2016.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDQ_Bonds_of_Faith_Enchantment_409578_2016.jpg</path>
+	<filename>EMN_Cathar's_Shield_Artifact_414498_2016.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\EMN_Cathar's_Shield_Artifact_414498_2016.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -44,7 +44,7 @@
 			<xmin>17</xmin>
 			<ymin>176</ymin>
 			<xmax>116</xmax>
-			<ymax>191</ymax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>48</xmin>
 			<ymin>293</ymin>
-			<xmax>84</xmax>
-			<ymax>304</ymax>
+			<xmax>77</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>203</ymin>
-			<xmax>205</xmax>
+			<ymin>200</ymin>
+			<xmax>203</xmax>
 			<ymax>279</ymax>
 		</bndbox>
 	</object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
+			<xmin>193</xmin>
 			<ymin>15</ymin>
 			<xmax>208</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 </annotation>

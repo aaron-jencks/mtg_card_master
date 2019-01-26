@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>EVE_Ashling,_the_Extinguisher_Legendary_151137_2008.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\EVE_Ashling,_the_Extinguisher_Legendary_151137_2008.jpg</path>
+	<filename>EXO_Mirri,_Cat_Warrior_Legendary_6155_1998.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\EXO_Mirri,_Cat_Warrior_Legendary_6155_1998.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>18</ymin>
-			<xmax>159</xmax>
-			<ymax>32</ymax>
+			<xmin>21</xmin>
+			<ymin>13</ymin>
+			<xmax>124</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>37</ymin>
-			<xmax>203</xmax>
-			<ymax>170</ymax>
+			<xmin>26</xmin>
+			<ymin>31</ymin>
+			<xmax>195</xmax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,21 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>22</xmin>
-			<ymin>177</ymin>
-			<xmax>186</xmax>
-			<ymax>190</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>artist</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>89</xmax>
-			<ymax>294</ymax>
+			<ymin>171</ymin>
+			<xmax>100</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>175</ymin>
-			<xmax>204</xmax>
-			<ymax>190</ymax>
+			<xmin>167</xmin>
+			<ymin>170</ymin>
+			<xmax>200</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>194</ymin>
-			<xmax>199</xmax>
-			<ymax>277</ymax>
+			<xmin>26</xmin>
+			<ymin>192</ymin>
+			<xmax>194</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>artist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>275</ymin>
+			<xmax>148</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>277</ymin>
+			<xmax>193</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>277</ymin>
+			<xmax>204</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,33 +114,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>168</xmin>
-			<ymin>18</ymin>
-			<xmax>205</xmax>
-			<ymax>33</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>176</xmin>
-			<ymin>276</ymin>
-			<xmax>185</xmax>
-			<ymax>291</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>186</xmin>
-			<ymin>276</ymin>
-			<xmax>197</xmax>
-			<ymax>292</ymax>
+			<ymin>13</ymin>
+			<xmax>206</xmax>
+			<ymax>29</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DRB_Draco_Artifact_178018_2008.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DRB_Draco_Artifact_178018_2008.jpg</path>
+	<filename>EVE_Inundate_Sorcery_142010_2008.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\EVE_Inundate_Sorcery_142010_2008.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>18</ymin>
-			<xmax>55</xmax>
-			<ymax>31</ymax>
+			<xmax>72</xmax>
+			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>177</ymin>
-			<xmax>146</xmax>
-			<ymax>188</ymax>
+			<xmax>60</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>197</ymin>
-			<xmax>200</xmax>
-			<ymax>274</ymax>
+			<xmin>21</xmin>
+			<ymin>204</ymin>
+			<xmax>193</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,34 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>158</xmin>
 			<ymin>18</ymin>
 			<xmax>205</xmax>
 			<ymax>33</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>176</xmin>
-			<ymin>276</ymin>
-			<xmax>185</xmax>
-			<ymax>291</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>186</xmin>
-			<ymin>276</ymin>
-			<xmax>197</xmax>
-			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

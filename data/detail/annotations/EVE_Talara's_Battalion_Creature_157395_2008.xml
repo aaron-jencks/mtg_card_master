@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DRB_Draco_Artifact_178018_2008.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DRB_Draco_Artifact_178018_2008.jpg</path>
+	<filename>EVE_Talara's_Battalion_Creature_157395_2008.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\EVE_Talara's_Battalion_Creature_157395_2008.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>19</xmin>
 			<ymin>18</ymin>
-			<xmax>55</xmax>
-			<ymax>31</ymax>
+			<xmax>117</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>22</xmin>
 			<ymin>177</ymin>
-			<xmax>146</xmax>
-			<ymax>188</ymax>
+			<xmax>129</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>33</xmin>
 			<ymin>282</ymin>
-			<xmax>71</xmax>
-			<ymax>292</ymax>
+			<xmax>89</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>22</xmin>
-			<ymin>197</ymin>
-			<xmax>200</xmax>
-			<ymax>274</ymax>
+			<ymin>195</ymin>
+			<xmax>198</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>180</xmin>
 			<ymin>18</ymin>
 			<xmax>205</xmax>
-			<ymax>33</ymax>
+			<ymax>34</ymax>
 		</bndbox>
 	</object>
 	<object>
