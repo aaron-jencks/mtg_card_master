@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</path>
+	<filename>DOM_Vicious_Offering_Instant_442998_2018.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DOM_Vicious_Offering_Instant_442998_2018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>15</ymin>
-			<xmax>123</xmax>
-			<ymax>32</ymax>
+			<xmax>106</xmax>
+			<ymax>33</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>114</xmax>
-			<ymax>190</ymax>
+			<xmax>53</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>47</xmin>
 			<ymin>293</ymin>
-			<xmax>94</xmax>
-			<ymax>304</ymax>
+			<xmax>98</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>18</xmin>
 			<ymin>198</ymin>
-			<xmax>201</xmax>
-			<ymax>281</ymax>
+			<xmax>198</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -93,30 +93,6 @@
 			<ymin>15</ymin>
 			<xmax>209</xmax>
 			<ymax>31</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>182</xmin>
-			<ymin>277</ymin>
-			<xmax>192</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>192</xmin>
-			<ymin>278</ymin>
-			<xmax>203</xmax>
-			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

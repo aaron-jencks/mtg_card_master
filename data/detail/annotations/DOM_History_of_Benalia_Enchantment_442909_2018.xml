@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</path>
+	<filename>DOM_History_of_Benalia_Enchantment_442909_2018.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DOM_History_of_Benalia_Enchantment_442909_2018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,27 +24,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>17</xmin>
-			<ymin>35</ymin>
-			<xmax>205</xmax>
-			<ymax>173</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>type</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>17</xmin>
-			<ymin>176</ymin>
+			<ymin>264</ymin>
 			<xmax>114</xmax>
-			<ymax>190</ymax>
+			<ymax>278</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
-			<ymin>175</ymin>
-			<xmax>207</xmax>
-			<ymax>192</ymax>
+			<xmin>191</xmin>
+			<ymin>263</ymin>
+			<xmax>208</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +55,8 @@
 		<bndbox>
 			<xmin>47</xmin>
 			<ymin>293</ymin>
-			<xmax>94</xmax>
-			<ymax>304</ymax>
+			<xmax>88</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>198</ymin>
-			<xmax>201</xmax>
-			<ymax>281</ymax>
+			<xmin>9</xmin>
+			<ymin>41</ymin>
+			<xmax>110</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,34 +77,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
+			<xmin>170</xmin>
 			<ymin>15</ymin>
 			<xmax>209</xmax>
-			<ymax>31</ymax>
+			<ymax>30</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>power</name>
+		<name>image</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>277</ymin>
-			<xmax>192</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>192</xmin>
-			<ymin>278</ymin>
-			<xmax>203</xmax>
-			<ymax>293</ymax>
+			<xmin>111</xmin>
+			<ymin>35</ymin>
+			<xmax>206</xmax>
+			<ymax>261</ymax>
 		</bndbox>
 	</object>
 </annotation>

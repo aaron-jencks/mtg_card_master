@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Bog_Imp_Creature_11179.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Bog_Imp_Creature_11179.jpg</path>
+	<filename>DRK_Scarwood_Goblins_Creature_1822_1994.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\DRK_Scarwood_Goblins_Creature_1822_1994.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
+			<xmin>16</xmin>
 			<ymin>13</ymin>
-			<xmax>72</xmax>
-			<ymax>29</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cmc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>180</xmin>
-			<ymin>13</ymin>
-			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<xmax>108</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +30,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>26</xmin>
-			<ymin>31</ymin>
+			<ymin>30</ymin>
 			<xmax>196</xmax>
-			<ymax>166</ymax>
+			<ymax>167</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
-			<ymin>171</ymin>
-			<xmax>101</xmax>
+			<xmin>21</xmin>
+			<ymin>172</ymin>
+			<xmax>105</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
@@ -65,34 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>205</ymin>
-			<xmax>195</xmax>
-			<ymax>256</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>power</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>278</ymin>
-			<xmax>195</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>195</xmin>
-			<ymin>277</ymin>
-			<xmax>206</xmax>
-			<ymax>292</ymax>
+			<xmin>32</xmin>
+			<ymin>196</ymin>
+			<xmax>186</xmax>
+			<ymax>258</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
+			<xmin>72</xmin>
+			<ymin>281</ymin>
+			<xmax>125</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +77,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>168</ymin>
-			<xmax>201</xmax>
-			<ymax>185</ymax>
+			<xmin>188</xmin>
+			<ymin>173</ymin>
+			<xmax>203</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cmc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>13</ymin>
+			<xmax>203</xmax>
+			<ymax>28</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>277</ymin>
+			<xmax>196</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>278</ymin>
+			<xmax>206</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>
