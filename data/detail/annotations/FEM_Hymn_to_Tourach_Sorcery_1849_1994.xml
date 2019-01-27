@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Nature's_Resurgence_Sorcery_12998.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Nature's_Resurgence_Sorcery_12998.jpg</path>
+	<filename>FEM_Hymn_to_Tourach_Sorcery_1849_1994.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FEM_Hymn_to_Tourach_Sorcery_1849_1994.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>17</xmin>
 			<ymin>12</ymin>
-			<xmax>132</xmax>
+			<xmax>105</xmax>
 			<ymax>29</ymax>
 		</bndbox>
 	</object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
+			<xmin>176</xmin>
 			<ymin>13</ymin>
-			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<xmax>205</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>26</xmin>
 			<ymin>31</ymin>
-			<xmax>197</xmax>
-			<ymax>167</ymax>
+			<xmax>196</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>172</ymin>
-			<xmax>63</xmax>
-			<ymax>184</ymax>
+			<xmin>23</xmin>
+			<ymin>171</ymin>
+			<xmax>62</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>196</ymin>
-			<xmax>195</xmax>
-			<ymax>262</ymax>
+			<xmin>32</xmin>
+			<ymin>190</ymin>
+			<xmax>188</xmax>
+			<ymax>270</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>93</xmin>
-			<ymin>275</ymin>
-			<xmax>148</xmax>
-			<ymax>285</ymax>
+			<xmin>44</xmin>
+			<ymin>277</ymin>
+			<xmax>97</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,8 +89,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>169</ymin>
+			<xmin>188</xmin>
+			<ymin>172</ymin>
 			<xmax>201</xmax>
 			<ymax>184</ymax>
 		</bndbox>

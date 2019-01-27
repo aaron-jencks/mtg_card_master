@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
-	<filename>C14_Hunting_Triad_Tribal_389550.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\C14_Hunting_Triad_Tribal_389550.jpg</path>
+	<filename>FUT_Bound_in_Silence_Tribal_130334_2007.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FUT_Bound_in_Silence_Tribal_130334_2007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>223</width>
+		<height>310</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>15</ymin>
-			<xmax>95</xmax>
-			<ymax>32</ymax>
+			<xmin>38</xmin>
+			<ymin>17</ymin>
+			<xmax>134</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>image</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>40</ymin>
+			<xmax>210</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
-			<ymin>16</ymin>
-			<xmax>208</xmax>
-			<ymax>30</ymax>
+			<xmin>18</xmin>
+			<ymin>42</ymin>
+			<xmax>47</xmax>
+			<ymax>81</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>16</xmin>
-			<ymin>176</ymin>
-			<xmax>112</xmax>
-			<ymax>191</ymax>
+			<xmin>26</xmin>
+			<ymin>175</ymin>
+			<xmax>179</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +65,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
+			<xmin>191</xmin>
 			<ymin>175</ymin>
-			<xmax>207</xmax>
+			<xmax>209</xmax>
 			<ymax>191</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>195</ymin>
-			<xmax>205</xmax>
-			<ymax>284</ymax>
+			<xmin>22</xmin>
+			<ymin>207</ymin>
+			<xmax>193</xmax>
+			<ymax>263</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>292</ymin>
-			<xmax>78</xmax>
-			<ymax>302</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>image</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>18</xmin>
-			<ymin>35</ymin>
-			<xmax>205</xmax>
-			<ymax>174</ymax>
+			<xmin>145</xmin>
+			<ymin>276</ymin>
+			<xmax>202</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 </annotation>

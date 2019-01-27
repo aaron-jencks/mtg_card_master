@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Ivory_Cup_Artifact_25650.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Ivory_Cup_Artifact_25650.jpg</path>
+	<filename>FEM_Zelyon_Sword_Artifact_1837_1994.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FEM_Zelyon_Sword_Artifact_1837_1994.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>23</xmin>
+			<xmin>17</xmin>
 			<ymin>12</ymin>
-			<xmax>78</xmax>
-			<ymax>29</ymax>
+			<xmax>87</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>188</xmin>
 			<ymin>13</ymin>
-			<xmax>208</xmax>
+			<xmax>205</xmax>
 			<ymax>28</ymax>
 		</bndbox>
 	</object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>31</ymin>
-			<xmax>196</xmax>
-			<ymax>167</ymax>
+			<xmin>26</xmin>
+			<ymin>30</ymin>
+			<xmax>195</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
-			<ymin>172</ymin>
-			<xmax>60</xmax>
+			<xmin>23</xmin>
+			<ymin>171</ymin>
+			<xmax>61</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>200</ymin>
-			<xmax>196</xmax>
-			<ymax>259</ymax>
+			<xmin>31</xmin>
+			<ymin>189</ymin>
+			<xmax>180</xmax>
+			<ymax>271</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>98</xmin>
-			<ymin>275</ymin>
-			<xmax>146</xmax>
-			<ymax>286</ymax>
+			<xmin>44</xmin>
+			<ymin>277</ymin>
+			<xmax>108</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,9 +89,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
-			<ymin>169</ymin>
-			<xmax>198</xmax>
+			<xmin>188</xmin>
+			<ymin>172</ymin>
+			<xmax>201</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>

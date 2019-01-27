@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DD1_Harmonize_Sorcery_159033.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DD1_Harmonize_Sorcery_159033.jpg</path>
+	<filename>FUT_Yixlid_Jailer_Creature_130702_2007.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FUT_Yixlid_Jailer_Creature_130702_2007.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
+			<xmin>38</xmin>
 			<ymin>17</ymin>
-			<xmax>82</xmax>
+			<xmax>106</xmax>
 			<ymax>33</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>cmc</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>168</xmin>
-			<ymin>18</ymin>
-			<xmax>205</xmax>
-			<ymax>32</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,21 +30,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>20</xmin>
-			<ymin>36</ymin>
-			<xmax>204</xmax>
-			<ymax>172</ymax>
+			<ymin>40</ymin>
+			<xmax>210</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>set</name>
+		<name>cmc</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
-			<ymin>174</ymin>
-			<xmax>204</xmax>
-			<ymax>190</ymax>
+			<xmin>18</xmin>
+			<ymin>42</ymin>
+			<xmax>47</xmax>
+			<ymax>81</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>20</xmin>
-			<ymin>176</ymin>
-			<xmax>59</xmax>
+			<xmin>26</xmin>
+			<ymin>175</ymin>
+			<xmax>148</xmax>
 			<ymax>188</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>175</ymin>
+			<xmax>209</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>204</ymin>
-			<xmax>197</xmax>
-			<ymax>266</ymax>
+			<xmin>22</xmin>
+			<ymin>197</ymin>
+			<xmax>200</xmax>
+			<ymax>269</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>33</xmin>
-			<ymin>282</ymin>
-			<xmax>84</xmax>
-			<ymax>292</ymax>
+			<xmin>121</xmin>
+			<ymin>276</ymin>
+			<xmax>166</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>power</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>276</ymin>
+			<xmax>187</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>toughness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>276</ymin>
+			<xmax>196</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 </annotation>

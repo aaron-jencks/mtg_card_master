@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Bog_Imp_Creature_11179.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Bog_Imp_Creature_11179.jpg</path>
+	<filename>FEM_Thorn_Thallid_Creature_1934_1994.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FEM_Thorn_Thallid_Creature_1934_1994.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>13</ymin>
-			<xmax>72</xmax>
-			<ymax>29</ymax>
+			<xmin>17</xmin>
+			<ymin>12</ymin>
+			<xmax>90</xmax>
+			<ymax>27</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>180</xmin>
+			<xmin>165</xmin>
 			<ymin>13</ymin>
-			<xmax>206</xmax>
-			<ymax>27</ymax>
+			<xmax>205</xmax>
+			<ymax>28</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,9 +42,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>26</xmin>
-			<ymin>31</ymin>
-			<xmax>196</xmax>
-			<ymax>166</ymax>
+			<ymin>30</ymin>
+			<xmax>195</xmax>
+			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>101</xmax>
-			<ymax>184</ymax>
+			<xmax>105</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>205</ymin>
-			<xmax>195</xmax>
-			<ymax>256</ymax>
+			<xmin>31</xmin>
+			<ymin>189</ymin>
+			<xmax>188</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>artist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>277</ymin>
+			<xmax>109</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>set</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>172</ymin>
+			<xmax>201</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +102,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>184</xmin>
-			<ymin>278</ymin>
+			<ymin>274</ymin>
 			<xmax>195</xmax>
-			<ymax>292</ymax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,34 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>195</xmin>
-			<ymin>277</ymin>
-			<xmax>206</xmax>
-			<ymax>292</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>artist</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>90</xmin>
-			<ymin>274</ymin>
-			<xmax>151</xmax>
-			<ymax>286</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>set</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>184</xmin>
-			<ymin>168</ymin>
-			<xmax>201</xmax>
-			<ymax>185</ymax>
+			<xmin>196</xmin>
+			<ymin>275</ymin>
+			<xmax>205</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 </annotation>

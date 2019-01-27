@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>7ED_Early_Harvest_Instant_12962.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\7ED_Early_Harvest_Instant_12962.jpg</path>
+	<filename>FEM_High_Tide_Instant_1872_1994.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\FEM_High_Tide_Instant_1872_1994.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>17</xmin>
 			<ymin>12</ymin>
-			<xmax>99</xmax>
-			<ymax>28</ymax>
+			<xmax>67</xmax>
+			<ymax>29</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,9 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>12</ymin>
-			<xmax>207</xmax>
+			<xmin>188</xmin>
+			<ymin>13</ymin>
+			<xmax>205</xmax>
 			<ymax>27</ymax>
 		</bndbox>
 	</object>
@@ -41,7 +41,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
+			<xmin>26</xmin>
 			<ymin>30</ymin>
 			<xmax>195</xmax>
 			<ymax>168</ymax>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>22</xmin>
+			<xmin>23</xmin>
 			<ymin>171</ymin>
-			<xmax>56</xmax>
-			<ymax>183</ymax>
+			<xmax>58</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
-			<ymin>206</ymin>
-			<xmax>195</xmax>
-			<ymax>250</ymax>
+			<xmin>31</xmin>
+			<ymin>197</ymin>
+			<xmax>177</xmax>
+			<ymax>261</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>276</ymin>
-			<xmax>154</xmax>
-			<ymax>287</ymax>
+			<xmin>44</xmin>
+			<ymin>277</ymin>
+			<xmax>112</xmax>
+			<ymax>288</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,8 +89,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>184</xmin>
-			<ymin>169</ymin>
+			<xmin>188</xmin>
+			<ymin>172</ymin>
 			<xmax>201</xmax>
 			<ymax>184</ymax>
 		</bndbox>
