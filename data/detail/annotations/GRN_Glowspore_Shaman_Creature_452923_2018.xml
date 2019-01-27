@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</path>
+	<filename>GRN_Glowspore_Shaman_Creature_452923_2018.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\GRN_Glowspore_Shaman_Creature_452923_2018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>114</xmax>
-			<ymax>190</ymax>
+			<xmax>123</xmax>
+			<ymax>189</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
+			<xmin>184</xmin>
 			<ymin>175</ymin>
 			<xmax>207</xmax>
-			<ymax>192</ymax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>47</xmin>
 			<ymin>293</ymin>
-			<xmax>94</xmax>
-			<ymax>304</ymax>
+			<xmax>95</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>198</ymin>
-			<xmax>201</xmax>
-			<ymax>281</ymax>
+			<ymin>200</ymin>
+			<xmax>197</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 	<object>

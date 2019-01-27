@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</path>
+	<filename>GNT_Dragon_Fodder_Sorcery_456559_2018.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\GNT_Dragon_Fodder_Sorcery_456559_2018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>15</ymin>
-			<xmax>123</xmax>
-			<ymax>32</ymax>
+			<xmin>21</xmin>
+			<ymin>21</ymin>
+			<xmax>119</xmax>
+			<ymax>38</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>35</ymin>
-			<xmax>205</xmax>
-			<ymax>173</ymax>
+			<xmin>21</xmin>
+			<ymin>42</ymin>
+			<xmax>244</xmax>
+			<ymax>206</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>176</ymin>
-			<xmax>114</xmax>
-			<ymax>190</ymax>
+			<xmin>21</xmin>
+			<ymin>212</ymin>
+			<xmax>66</xmax>
+			<ymax>227</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
-			<ymin>175</ymin>
-			<xmax>207</xmax>
-			<ymax>192</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>artist</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>47</xmin>
-			<ymin>293</ymin>
-			<xmax>94</xmax>
-			<ymax>304</ymax>
+			<xmin>229</xmin>
+			<ymin>211</ymin>
+			<xmax>246</xmax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>198</ymin>
-			<xmax>201</xmax>
-			<ymax>281</ymax>
+			<xmin>22</xmin>
+			<ymin>240</ymin>
+			<xmax>241</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,34 +77,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>15</ymin>
-			<xmax>209</xmax>
-			<ymax>31</ymax>
+			<xmin>215</xmin>
+			<ymin>18</ymin>
+			<xmax>248</xmax>
+			<ymax>36</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>power</name>
+		<name>artist</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>277</ymin>
-			<xmax>192</xmax>
-			<ymax>294</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>toughness</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>192</xmin>
-			<ymin>278</ymin>
-			<xmax>203</xmax>
-			<ymax>293</ymax>
+			<xmin>56</xmin>
+			<ymin>350</ymin>
+			<xmax>94</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 </annotation>
