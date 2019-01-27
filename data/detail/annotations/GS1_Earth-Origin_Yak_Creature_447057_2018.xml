@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</filename>
-	<path>G:\Github Repository\mtg_card_master\data\detail\images\DDU_Kujar_Seedsculptor_Creature_442751_2018.jpg</path>
+	<filename>GS1_Earth-Origin_Yak_Creature_447057_2018.jpg</filename>
+	<path>G:\Github Repository\mtg_card_master\data\detail\images\GS1_Earth-Origin_Yak_Creature_447057_2018.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,7 +19,7 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>15</ymin>
-			<xmax>123</xmax>
+			<xmax>112</xmax>
 			<ymax>32</ymax>
 		</bndbox>
 	</object>
@@ -43,7 +43,7 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>176</ymin>
-			<xmax>114</xmax>
+			<xmax>86</xmax>
 			<ymax>190</ymax>
 		</bndbox>
 	</object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>47</xmin>
 			<ymin>293</ymin>
-			<xmax>94</xmax>
-			<ymax>304</ymax>
+			<xmax>82</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +78,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>198</ymin>
-			<xmax>201</xmax>
-			<ymax>281</ymax>
+			<ymin>200</ymin>
+			<xmax>198</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 	<object>
